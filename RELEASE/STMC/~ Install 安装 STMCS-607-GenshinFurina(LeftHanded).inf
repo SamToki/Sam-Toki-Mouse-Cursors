@@ -1,0 +1,68 @@
+[Version]
+signature = "$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg,Wreg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%CurArrow%,%10%\%CUR_DIR%\%CurHelp%,%10%\%CUR_DIR%\%CurAppStarting%,%10%\%CUR_DIR%\%CurWait%,%10%\%CUR_DIR%\%CurCrosshair%,%10%\%CUR_DIR%\%CurIBeam%,%10%\%CUR_DIR%\%CurNWPen%,%10%\%CUR_DIR%\%CurNo%,%10%\%CUR_DIR%\%CurSizeNS%,%10%\%CUR_DIR%\%CurSizeWE%,%10%\%CUR_DIR%\%CurSizeNWSE%,%10%\%CUR_DIR%\%CurSizeNESW%,%10%\%CUR_DIR%\%CurSizeAll%,%10%\%CUR_DIR%\%CurUpArrow%,%10%\%CUR_DIR%\%CurHand%"
+
+[Wreg]
+HKCU,"Control Panel\Cursors",,0x00020000,"%SCHEME_NAME%"
+HKCU,"Control Panel\Cursors",AppStarting,0x00020000,"%10%\%CUR_DIR%\%CurAppStarting%"
+HKCU,"Control Panel\Cursors",Arrow,0x00020000,"%10%\%CUR_DIR%\%CurArrow%"
+HKCU,"Control Panel\Cursors",Crosshair,0x00020000,"%10%\%CUR_DIR%\%CurCrosshair%"
+HKCU,"Control Panel\Cursors",Hand,0x00020000,"%10%\%CUR_DIR%\%CurHand%"
+HKCU,"Control Panel\Cursors",Help,0x00020000,"%10%\%CUR_DIR%\%CurHelp%"
+HKCU,"Control Panel\Cursors",IBeam,0x00020000,"%10%\%CUR_DIR%\%CurIBeam%"
+HKCU,"Control Panel\Cursors",No,0x00020000,"%10%\%CUR_DIR%\%CurNo%"
+HKCU,"Control Panel\Cursors",NWPen,0x00020000,"%10%\%CUR_DIR%\%CurNWPen%"
+HKCU,"Control Panel\Cursors",SizeAll,0x00020000,"%10%\%CUR_DIR%\%CurSizeAll%"
+HKCU,"Control Panel\Cursors",SizeNESW,0x00020000,"%10%\%CUR_DIR%\%CurSizeNESW%"
+HKCU,"Control Panel\Cursors",SizeNS,0x00020000,"%10%\%CUR_DIR%\%CurSizeNS%"
+HKCU,"Control Panel\Cursors",SizeNWSE,0x00020000,"%10%\%CUR_DIR%\%CurSizeNWSE%"
+HKCU,"Control Panel\Cursors",SizeWE,0x00020000,"%10%\%CUR_DIR%\%CurSizeWE%"
+HKCU,"Control Panel\Cursors",UpArrow,0x00020000,"%10%\%CUR_DIR%\%CurUpArrow%"
+HKCU,"Control Panel\Cursors",Wait,0x00020000,"%10%\%CUR_DIR%\%CurWait%"
+HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.exe shell32.dll,Control_RunDLL main.cpl @0"
+
+[Scheme.Cur]
+"STMC_GenshinFurina_14_Mirror.cur"
+"STMC_Genshin_02_Help.cur"
+"STMC_GenshinFurina_03_Working(mirrored).ani"
+"STMC_GenshinFurina_04_Busy.ani"
+"STMC_Common_05_Cross.cur"
+"STMC_GenshinFurina_06_Beam.cur"
+"STMC_Standard_01_Normal(red).cur"
+"STMC_Common_08_Unavailable(mirrored).cur"
+"STMC_GenshinFurina_09_NS.cur"
+"STMC_GenshinFurina_10_EW.cur"
+"STMC_GenshinFurina_11_NWSE.cur"
+"STMC_GenshinFurina_12_NESW.cur"
+"STMC_Common_13_Hand(mirrored).cur"
+"STMC_GenshinFurina_01_Normal.cur"
+"STMC_Common_15_Finger(mirrored).cur"
+
+[Strings]
+CUR_DIR         = "Cursors\STMC"
+SCHEME_NAME     = "STMCS-607-GenshinFurina(LeftHanded)"
+
+CurArrow        = "STMC_GenshinFurina_14_Mirror.cur"
+CurHelp         = "STMC_Genshin_02_Help.cur"
+CurAppStarting  = "STMC_GenshinFurina_03_Working(mirrored).ani"
+CurWait         = "STMC_GenshinFurina_04_Busy.ani"
+CurCrosshair    = "STMC_Common_05_Cross.cur"
+CurIBeam        = "STMC_GenshinFurina_06_Beam.cur"
+CurNWPen        = "STMC_Standard_01_Normal(red).cur"
+CurNo           = "STMC_Common_08_Unavailable(mirrored).cur"
+CurSizeNS       = "STMC_GenshinFurina_09_NS.cur"
+CurSizeWE       = "STMC_GenshinFurina_10_EW.cur"
+CurSizeNWSE     = "STMC_GenshinFurina_11_NWSE.cur"
+CurSizeNESW     = "STMC_GenshinFurina_12_NESW.cur"
+CurSizeAll      = "STMC_Common_13_Hand(mirrored).cur"
+CurUpArrow      = "STMC_GenshinFurina_01_Normal.cur"
+Curhand         = "STMC_Common_15_Finger(mirrored).cur"

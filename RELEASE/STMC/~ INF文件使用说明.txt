@@ -1,0 +1,50 @@
+INF文件使用说明
+
+----------
+
+使用方法
+
+1. 单击选中希望安装的鼠标指针方案inf文件。
+2. 右键→安装。
+	若在 Win11 上找不到「安装」，请观察一下有没有「显示更多选项」。
+	若弹出UAC（你要允许…？），请允许UAC提权「INF 默认安装」。
+3. 在弹出的「鼠标 属性」窗口中点击 指针→确定→是。
+	若看不到窗口，请留意任务栏。
+
+----------
+
+鼠标指针方案中文名对照表
+
+STMCS-101-Standard 标准鼠标指针
+STMCS-102-Standard(White) 标准鼠标指针(白色)
+STMCS-107-Standard(LeftHanded) 标准鼠标指针(左利手专用)
+
+（2开头的已被废除）
+
+STMCS-301-Genshin 原神概念鼠标指针
+STMCS-302-Genshin(Elements) 原神概念鼠标指针(元素符号)
+STMCS-307-Genshin(LeftHanded) 原神概念鼠标指针(左利手专用)
+
+STMCS-401-GenshinNahida 纳西妲概念鼠标指针
+STMCS-407-GenshinNahida(LeftHanded) 纳西妲概念鼠标指针(左利手专用)
+
+STMCS-501-BTRAhoge 孤独摇滚呆毛鼠标指针
+STMCS-502-BTRAhoge(Bocchi) 孤独摇滚呆毛鼠标指针(波奇)
+STMCS-503-BTRAhoge(Nijika) 孤独摇滚呆毛鼠标指针(虹夏)
+STMCS-507-BTRAhoge(LeftHanded) 孤独摇滚呆毛鼠标指针(左利手专用)
+
+STMCS-601-GenshinFurina 芙宁娜概念鼠标指针
+STMCS-607-GenshinFurina(LeftHanded) 芙宁娜概念鼠标指针(左利手专用)
+
+----------
+
+备注
+
+1. 左利手俗称左撇子，这里指的是习惯左手使用鼠标的用户。
+2. 安全提示：运行这些文件之前，可先用文本编辑器打开它们来检查代码。
+3. 若仍有疑问，请参阅「附件」中的「STMC保姆级使用教程」，或通过「作品链接」联系作者。
+
+----------
+
+(C) 2015-2023 SAM TOKI STUDIO
+https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors
