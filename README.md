@@ -71,7 +71,7 @@ Head for [this folder](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cu
 
 - INF文件配置[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/1)<br>[@Yinr](https://github.com/Yinr)
 - GitHub release 功能利用[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/3)<br>[@Sherlock-Holo](https://github.com/Sherlock-Holo)
-- 版权说明[纠错](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/4)<br>[@pat-hwaki]
+- 版权说明[纠错](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/4)<br>[@pat-hwaki](https://github.com/pat-hwaki)
 - 手指设计问题反馈<br>@W腾x云Y @黄栌照古鼎 @小祈2号 @夜林蓝 @叫我轩某某 @云之森处 @让我中奖亿次吧 @十里吖Yime @Fog_鹤 @torque_7 @轻风丶乍起 @中路の霜 @紅絲絨玫瑰 @墨羽_OvO @三个人的孤独探戈
 - 高分屏模糊问题反馈<br>@c28101 @RengeRenge @麦薐・烨娥
 - 其他建议<br>@latier丶 @言阿午_ @夜白瑰兮 @老陆我也 @小清同志吖 @啥也不会-_- @Amaranthine_Gate @一粒辰砂 @凉城丶逝梦
