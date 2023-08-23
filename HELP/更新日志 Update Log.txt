@@ -3,6 +3,10 @@ Sam Toki's Mouse Cursors (STMC)
 
 ----------
 
+v6.01 2023/08/23 (142 files)
+[New] 版本号引入，由于已推出6个系列，故大版本号从6开始
+[Changed] 版权说明更新
+
 2023/08/13 (142 files)
 [New] GenshinFurina 系列
 [Changed] STMC_Genshin_12 修复偏移一个像素
@@ -40,15 +44,15 @@ Sam Toki's Mouse Cursors (STMC)
 [New] STMC_BTRAhoge_13 抓握手形 (有点像小笼包)
 [New] STMC_BTRAhoge_14 波喜多版本
 [New] STMC_BTRAhoge_15 手指镜像翻转版本 (左利手专用)
-[New] STMCS-504, STMCS-507 方案
+[New] STMCS-504 & STMCS-507 方案
 [Changed] STMCS-501 方案修改
 [Changed] 预览图更新
 
 2023/02/28 (273 files)
 [New] STMC_BTRAhoge_01 波喜多-波奇头饰粉红颜色版本 (出现于动画S01E10)
-[Changed] BTRAhoge 波奇瞳色过深, 改为稍浅一些的深蓝色
-[Changed] BTRAhoge 部分波奇头饰颜色对调, 以匹配人设中上蓝下黄
-[Changed] STMC_BTRAhoge_15 波奇头饰圆形版本蓝黄颜色刻意相反, 以使鼠标指针转换看起来比较明显
+[Changed] BTRAhoge 波奇瞳色过深，改为稍浅一些的深蓝色
+[Changed] BTRAhoge 部分波奇头饰颜色对调，以匹配人设中上蓝下黄
+[Changed] STMC_BTRAhoge_15 波奇头饰圆形版本蓝黄颜色刻意相反，以使鼠标指针转换看起来比较明显
 [Changed] BTRAhoge 调整大小山田凉版本描边改为白色
 
 2023/02/19 (272 files)

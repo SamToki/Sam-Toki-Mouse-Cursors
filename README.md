@@ -1,12 +1,14 @@
 # 最新内容 Latest
 
-快点把我(boku)带进你的电脑，赶紧的！<br>
-Bring me (boku) into your PC, I told you not to hesitate!<br>
-![STMCS-6 Cover 封面](/PREVIEW/STMCS-6%20Cover%20封面.png)
+2023/08/13<br>
+「还不快点把我(boku)带进你的电脑？」<br>
+"Don't you wanna take me (boku) into your PC?"<br>
+![Latest 1](/HELP/Latest%201.png)
 
+2023/08/06<br>
 重要更新公告<br>
 Important Update Notice<br>
-![Important Update Notice](/HELP/Important%20Update%20Notice.png)
+![Latest 2](/HELP/Latest%202.png)
 
 # 简介 Description
 
@@ -27,18 +29,18 @@ STMCS-4 "Genshin Nahida" [纳西妲概念鼠标指针 (Nahida Conceptual Mouse C
 STMCS-5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 (Bocchi the Rock Ahoge Mouse Cursors)](https://bilibili.com/video/BV1ke4y1F7ge)<br>
 STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse Cursors)](https://bilibili.com/video/BV1im4y1H7Xg)
 
-![STMCS-4 Cover 封面](/PREVIEW/STMCS-4%20Cover%20封面.png)
-![STMCS-5 Cover 封面](/PREVIEW/STMCS-5%20Cover%20封面.png)
-![STMCS-6 Cover 封面](/PREVIEW/STMCS-6%20Cover%20封面.png)
+![STMCS-4 封面 Cover](/PREVIEW/STMCS-4%20封面%20Cover.png)
+![STMCS-5 封面 Cover](/PREVIEW/STMCS-5%20封面%20Cover.png)
+![STMCS-6 封面 Cover](/PREVIEW/STMCS-6%20封面%20Cover.png)
 (Illustrations from: Pixiv ID [102249014](https://www.pixiv.net/en/artworks/102249014), [104313496](https://www.pixiv.net/en/artworks/104313496), [109780772](https://www.pixiv.net/en/artworks/109780772))
 
 # 预览 Preview
 
-![STMCS-1 Preview 预览](/PREVIEW/STMCS-1%20Preview%20预览.png)
-![STMCS-3 Preview 预览](/PREVIEW/STMCS-3%20Preview%20预览.png)
-![STMCS-4 Preview 预览](/PREVIEW/STMCS-4%20Preview%20预览.png)
-![STMCS-5 Preview 预览](/PREVIEW/STMCS-5%20Preview%20预览.png)
-![STMCS-6 Preview 预览](/PREVIEW/STMCS-6%20Preview%20预览.png)
+![STMCS-1 预览 Preview](/PREVIEW/STMCS-1%20预览%20Preview.png)
+![STMCS-3 预览 Preview](/PREVIEW/STMCS-3%20预览%20Preview.png)
+![STMCS-4 预览 Preview](/PREVIEW/STMCS-4%20预览%20Preview.png)
+![STMCS-5 预览 Preview](/PREVIEW/STMCS-5%20预览%20Preview.png)
+![STMCS-6 预览 Preview](/PREVIEW/STMCS-6%20预览%20Preview.png)
 
 # 使用方法 How to Use
 
@@ -48,8 +50,8 @@ STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse C
 Download and extract "RELEASE/[STMC.zip](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/raw/master/RELEASE/STMC.zip)"
 
 文件校验码 Hash Check<br>
-**SHA-1:** 2db5a071d33e1325c22b909d7f3ad7f21f48210c<br>
-**MD5:** 0f472bd282afb3e74b2bc6f61315fc28
+**SHA-1:** 3265d1c03e70446d7f7f71df83cc82fcb045b7ae<br>
+**MD5:** 80b462dd5e0faced11646d75a01eebfe
 
 进入「STMC」文件夹，选中希望安装的鼠标指针方案inf文件，右键→安装。<br>
 然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
@@ -69,26 +71,23 @@ Head for [this folder](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cu
 
 - INF文件配置[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/1)<br>[@Yinr](https://github.com/Yinr)
 - GitHub release 功能利用[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/3)<br>[@Sherlock-Holo](https://github.com/Sherlock-Holo)
+- 版权说明[纠错](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/4)<br>[@pat-hwaki]
 - 手指设计问题反馈<br>@W腾x云Y @黄栌照古鼎 @小祈2号 @夜林蓝 @叫我轩某某 @云之森处 @让我中奖亿次吧 @十里吖Yime @Fog_鹤 @torque_7 @轻风丶乍起 @中路の霜 @紅絲絨玫瑰 @墨羽_OvO @三个人的孤独探戈
 - 高分屏模糊问题反馈<br>@c28101 @RengeRenge @麦薐・烨娥
 - 其他建议<br>@latier丶 @言阿午_ @夜白瑰兮 @老陆我也 @小清同志吖 @啥也不会-_- @Amaranthine_Gate @一粒辰砂 @凉城丶逝梦
 - 其他版本的 distribution<br>@洛天依_Linux @夕暮_Suzuki
 - 本作品倒卖行为举报<br>@猫咪爱吃茶
 
-# 版权说明 Copyright
+# 版权说明 Legal Info
 
-使用本作品表示您同意以下协议。<br>
-开源协议：GNU GPL v3<br>
-知识共享协议：CC BY-NC-SA 3.0<br>
-By continuing to use, you agree to the following licenses.<br>
-Open source license: GNU GPL v3<br>
-Creative Commons: CC BY-NC-SA 3.0
-
-本作品允许任意传播，转载请务必注明出处。<br>
+STMC.zip 及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。<br>
 若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。<br>
-仅供个人免费使用，不得商用（倒卖盈利等行为）。<br>
-You may freely distribute this piece of work. A reference is required when reposting.<br>
+仅供个人免费使用，不得商用（任何盈利行为）。<br>
+其他内容（例如工程文件）保留版权。<br>
+STMC.zip and its contents are released under the CC BY-NC-SA 3.0 license.<br>
+You may freely distribute them, but a reference is required when reposting.<br>
 Reference is not required if you are simply showing the mouse cursors in a screen recording.<br>
-For free personal use only. No commercial use.
+For free personal use only. No commercial use.<br>
+Other contents such as the project files are copyrighted.
 
 (C) 2015-2023 SAM TOKI STUDIO
