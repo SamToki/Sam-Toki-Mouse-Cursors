@@ -8,12 +8,8 @@
 
 # 简介 Description
 
-这是一套原创极简风格鼠标指针，适用于 Windows 系统。<br>
-部分设计来源于《原神》《孤独摇滚》。<br>
-内置多种鼠标指针方案，方便快速安装与管理。<br>
-This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design.<br>
-Some design originated from *Genshin Impact* and *Bocchi the Rock*.<br>
-It has multiple mouse cursor schemes built in, for convenient installation and management.
+这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于《原神》《孤独摇滚》。内置多种鼠标指针方案，方便快速安装与管理。<br>
+This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from *Genshin Impact* and *Bocchi the Rock*. It has multiple mouse cursor schemes built in, for convenient installation and management.
 
 目前包含6个系列：<br>
 There are currently 6 series in the pack:
@@ -49,10 +45,8 @@ Go to the [releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Curs
 **SHA-1:** 3265d1c03e70446d7f7f71df83cc82fcb045b7ae<br>
 **MD5:** 80b462dd5e0faced11646d75a01eebfe
 
-进入「STMC」文件夹，选中希望安装的鼠标指针方案inf文件，右键→安装。<br>
-然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
-Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install".<br>
-Then click Pointers >> OK >> Yes in the "Mouse Properties" window which will pop up later.
+进入「STMC」文件夹，选中希望安装的鼠标指针方案inf文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
+Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers >> OK >> Yes in the "Mouse Properties" window which will pop up later.
 
 # 自定义 How to Customize
 
@@ -77,8 +71,7 @@ Go to the [releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Curs
 # 开发计划 Development Plan
 
 下列内容没有具体的制作日程，全凭心情随缘制作，且随时可能被取消。<br>
-The contents listed below are with indeterminate development schedule.<br>
-I may make them as I like, or cancel them at any time.
+The contents listed below are with indeterminate development schedule. I may make them as I like, or cancel them at any time.
 
 - Panty & Stocking with Garterbelt | Stocking | 04
 - Endro~! | Flower on head | 04
@@ -88,14 +81,7 @@ I may make them as I like, or cancel them at any time.
 
 # 版权说明 Legal Info
 
-STMC.zip 及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。<br>
-若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。<br>
-仅供个人免费使用，不得商用（任何盈利行为）。<br>
-其他内容（例如工程文件）保留版权。<br>
-STMC.zip and its contents are released under the CC BY-NC-SA 3.0 license.<br>
-You may freely distribute them, but a reference is required when reposting.<br>
-Reference is not required if you are simply showing the mouse cursors in a screen recording.<br>
-For free personal use only. No commercial use.<br>
-Other contents such as the project files are copyrighted.
+STMC.zip 及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。其他内容（例如工程文件）保留版权。<br>
+STMC.zip and its contents are released under the CC BY-NC-SA 3.0 license. You may freely distribute them, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Other contents such as the project files are copyrighted.
 
 (C) 2015-2023 SAM TOKI STUDIO
