@@ -3,6 +3,11 @@ Sam Toki's Mouse Cursors (STMC)
 
 ----------
 
+v6.02 2023/12/11 (145 files)
+[New] GenshinFurina (芙宁娜) 手指 (链接选择) 3种颜色不同的备选版本
+[Changed] 原神问号清晰度优化，采用新素材
+[Changed] 版权说明更新
+
 v6.01 2023/08/23 (142 files)
 [New] 版本号引入，由于已推出6个系列，故大版本号从6开始
 [Changed] 版权说明更新
