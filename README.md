@@ -73,11 +73,13 @@ Go to the [releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Curs
 下列内容没有具体的制作日程，全凭心情随缘制作，且随时可能被取消。<br>
 The contents listed below are with indeterminate development schedule. I may make them as I like, or cancel them at any time.
 
-- Panty & Stocking with Garterbelt | Stocking | 04
 - Endro~! | Flower on head | 04
+- Genshin Impact | Hu Tao (requested by Bilibili user) | ?
 - Genshin Impact | Venti | ?
-- Genshin Impact | Raiden Shogun | ?
+- Konosuba | ? | ?
 - Lycoris Recoil | ? | ?
+- Panty & Stocking with Garterbelt | Stocking | 04
+- Sword Art Online | ? | ?
 
 # 版权说明 Copyright Info
 
