@@ -44,26 +44,22 @@ STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse C
 前往 [Releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并解压「STMC.zip」。<br>
 Go to the [releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
 
-文件校验码 Hash Check<br>
-**SHA-1:** 0E3412DDB5E644A3BD0FDB0387366DF858FAE7C5<br>
-**MD5:** 3EF0EA361A4CEDF7724530835ABBD922
-
-进入「STMC」文件夹，选中希望安装的鼠标指针方案inf文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
+进入「STMC」文件夹，选中希望安装的鼠标指针方案 inf 文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
 Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers >> OK >> Yes in the "Mouse Properties" window which will pop up later.
 
 # 自定义 How to Customize
 
 [如何修改孤独摇滚呆毛鼠标指针](https://bilibili.com/video/BV1BD4y137dh)
 
-前往 [Releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载PPT矢量图工程文件，然后根据您的想法编辑之。<br>
+前往 [Releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载 PPT 矢量图工程文件，然后根据您的想法编辑之。<br>
 Go to the [releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/releases/latest) page, download the PowerPoint project files and edit them as you like.
 
 # 鸣谢 Acknowledgment
 
 感谢以下观众/读者对本项目的贡献！
 
-- INF文件配置[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/1)<br>[@Yinr](https://github.com/Yinr)
-- GitHub release 功能利用[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/3)<br>[@Sherlock-Holo](https://github.com/Sherlock-Holo)
+- INF 文件配置[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/1)<br>[@Yinr](https://github.com/Yinr)
+- GitHub Release 功能利用[建议](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/3)<br>[@Sherlock-Holo](https://github.com/Sherlock-Holo)
 - 版权说明[纠错](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/issues/4)<br>[@pat-hwaki](https://github.com/pat-hwaki)
 - 手指设计问题反馈<br>@W腾x云Y @黄栌照古鼎 @小祈2号 @夜林蓝 @叫我轩某某 @云之森处 @让我中奖亿次吧 @十里吖Yime @Fog_鹤 @torque_7 @轻风丶乍起 @中路の霜 @紅絲絨玫瑰 @墨羽_OvO @三个人的孤独探戈
 - 高分屏模糊问题反馈<br>@c28101 @RengeRenge @麦薐・烨娥
