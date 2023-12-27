@@ -1,10 +1,13 @@
 # 最新内容 Latest
 
-2023/08/13
+2023/12/27
 ![Latest 1](/HELP/Latest%201.png)
 
-2023/08/06
+2023/08/13
 ![Latest 2](/HELP/Latest%202.png)
+
+2023/08/06
+![Latest 3](/HELP/Latest%203.png)
 
 # 简介 Description
 
@@ -42,8 +45,8 @@ STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse C
 Go to the [releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
 
 文件校验码 Hash Check<br>
-**SHA-1:** 3265d1c03e70446d7f7f71df83cc82fcb045b7ae<br>
-**MD5:** 80b462dd5e0faced11646d75a01eebfe
+**SHA-1:** 0E3412DDB5E644A3BD0FDB0387366DF858FAE7C5<br>
+**MD5:** 3EF0EA361A4CEDF7724530835ABBD922
 
 进入「STMC」文件夹，选中希望安装的鼠标指针方案inf文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
 Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers >> OK >> Yes in the "Mouse Properties" window which will pop up later.

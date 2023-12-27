@@ -3,6 +3,9 @@ Sam Toki's Mouse Cursors (STMC)
 
 ----------
 
+v6.04 2023/12/27 (154 files)
+[New] STMC_GenshinNahida_01_Normal(alternative)
+
 v6.03 2023/12/27 (153 files)
 [New] 重新设计手指 (链接选择) 与手掌 (拖动) 鼠标指针共5枚，废除旧版2枚；添加纳西妲绿色手2枚，芙宁娜手掌3枚
 
