@@ -14,5 +14,5 @@ Other contents such as the project files are copyrighted.
 
 ----------
 
-(C) 2015-2023 SAM TOKI STUDIO
+(C) 2022 SAM TOKI STUDIO
 https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors

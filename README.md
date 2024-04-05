@@ -85,4 +85,4 @@ The contents listed below are with indeterminate development schedule. I may mak
 STMC.zip 及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。其他内容（例如工程文件）保留版权。<br>
 STMC.zip and its contents are released under the CC BY-NC-SA 3.0 license. You may freely distribute them, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Other contents such as the project files are copyrighted.
 
-(C) 2015-2023 SAM TOKI STUDIO
+(C) 2022 SAM TOKI STUDIO
