@@ -1,13 +1,6 @@
-# 最新内容 Latest
+# 公告 Notice
 
-2023/12/27
-![Latest 1](/HELP/Latest%201.png)
-
-2023/08/13
-![Latest 2](/HELP/Latest%202.png)
-
-2023/08/06
-![Latest 3](/HELP/Latest%203.png)
+![重要更新公告 Important Update Notice](/HELP/Important%20Update%20Notice.png)
 
 # 简介 Description
 
@@ -72,13 +65,10 @@ Go to the [releases](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Curs
 下列内容没有具体的制作日程，全凭心情随缘制作，且随时可能被取消。<br>
 The contents listed below are with indeterminate development schedule. I may make them as I like, or cancel them at any time.
 
-- Endro~! | Flower on head | 04
-- Genshin Impact | Hu Tao (requested by Bilibili user) | ?
-- Genshin Impact | Venti | ?
-- Konosuba | ? | ?
-- Lycoris Recoil | ? | ?
-- Panty & Stocking with Garterbelt | Stocking | 04
-- Sword Art Online | ? | ?
+- 原神 Genshin Impact | 胡桃 Hu Tao (requested by Bilibili user)
+- 原神 Genshin Impact | 温迪 Venti
+- 为美好的世界献上祝福！Konosuba
+- 鸣潮 Wuthering Waves
 
 # 版权说明 Copyright Info
 
