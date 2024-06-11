@@ -4,21 +4,22 @@ Sam Toki's Mouse Cursors (STMC)
 ----------
 
 v6.05 2024/06/10 (154 files)
-[Changed] 通用I形 (文本选择) 鼠标指针由黑白相间改为反色，解决了过粗的问题
-[Changed] 通用禁止标志 (不可用) 鼠标指针略微缩小，与其他鼠标指针平衡
+[Changed] 通用I形 (Beam) 鼠标指针由黑白相间改为反色，解决了过粗的问题
+[Changed] 通用禁止标志 (Unavailable) 鼠标指针略微缩小，与其他鼠标指针平衡
 [Changed] 所有四方向箭头 (Move) 鼠标指针去除描边
-[Changed] 标准帮助鼠标指针的问号部分去除描边
-[Changed] 标准转圈鼠标指针重新设计
+[Changed] 标准帮助 (Help) 鼠标指针的问号部分去除描边
+[Changed] 标准转圈 (Working & Busy) 鼠标指针重新设计
+[Changed] 标准白色鼠标指针方案 (STMCS-102) 修改
 [Fixed] 修复拆分版压缩包缺失鼠标指针的问题
 
 v6.04 2023/12/27 (154 files)
 [New] STMC_GenshinNahida_01_Normal(alternative) 无尾版本
 
 v6.03 2023/12/27 (153 files)
-[New] 重新设计手指 (链接选择) 与手掌 (拖动) 鼠标指针共5枚，废除旧版2枚；添加纳西妲绿色手2枚，芙宁娜手掌3枚
+[New] 重新设计手指 (Finger) 与手掌 (Hand) 鼠标指针共5枚，废除旧版2枚；添加纳西妲 (Nahida) 绿色手2枚，芙宁娜 (Furina) 手掌3枚
 
 v6.02 2023/12/11 (145 files)
-[New] GenshinFurina (芙宁娜) 手指 (链接选择) 3种颜色不同的备选版本
+[New] 原神芙宁娜 (GenshinFurina) 手指 (Finger) 3种颜色不同的备选版本
 [Changed] 原神问号清晰度优化，采用新素材
 [Changed] 版权说明更新
 
@@ -27,7 +28,7 @@ v6.01 2023/08/23 (142 files)
 [Changed] 版权说明更新
 
 2023/08/13 (142 files)
-[New] GenshinFurina 系列
+[New] 原神芙宁娜 (GenshinFurina) 系列
 [Changed] STMC_Genshin_12 修复偏移一个像素
 [Changed] 预览图改版
 [Changed] 教程更新
@@ -35,7 +36,7 @@ v6.01 2023/08/23 (142 files)
 2023/08/10 (128 files)
 [New] STMC_GenshinNahida_13_Move
 [Changed] 预览图更新
-敬请期待芙宁娜系列！
+敬请期待原神芙宁娜系列！
 
 2023/08/08 (127 files)
 [New] STMC_Standard_01 小号版本 (在正常箭头与转圈状态之间切换的时候箭头不会不断大小变)
@@ -52,8 +53,8 @@ v6.01 2023/08/23 (142 files)
 若想要使用一些已被废除的旧版鼠标指针，请下载旧版存档 (Archive 文件包)。
 
 2023/06/02 (284 files)
-[Changed] BTRAhoge 喜多辫子样式改进
-[Changed] BTRAhoge 幽灵 (章鱼) 样式改进
+[Changed] 孤独摇滚呆毛 (BTRAhoge) 喜多辫子样式改进
+[Changed] 孤独摇滚呆毛 (BTRAhoge) 幽灵 (章鱼) 样式改进
 [Changed] 预览图更新
 
 2023/03/16 (284 files)
@@ -69,26 +70,26 @@ v6.01 2023/08/23 (142 files)
 
 2023/02/28 (273 files)
 [New] STMC_BTRAhoge_01 波喜多-波奇头饰粉红颜色版本 (出现于动画 S01E10)
-[Changed] BTRAhoge 波奇瞳色过深，改为稍浅一些的深蓝色
-[Changed] BTRAhoge 部分波奇头饰颜色对调，以匹配人设中上蓝下黄
+[Changed] 孤独摇滚呆毛 (BTRAhoge) 波奇瞳色过深，改为稍浅一些的深蓝色
+[Changed] 孤独摇滚呆毛 (BTRAhoge) 部分波奇头饰颜色对调，以匹配人设中上蓝下黄
 [Changed] STMC_BTRAhoge_15 波奇头饰圆形版本蓝黄颜色刻意相反，以使鼠标指针转换看起来比较明显
-[Changed] BTRAhoge 调整大小山田凉版本描边改为白色
+[Changed] 孤独摇滚呆毛 (BTRAhoge) 调整大小 (09~12) 鼠标指针山田凉版本描边改为白色
 
 2023/02/19 (272 files)
 [Changed] STMC_BTRAhoge_05 修复背景圆偏移半个像素
 
 2023/02/14 (272 files)
-[New] BTRAhoge 系列
+[New] 孤独摇滚呆毛 (BTRAhoge) 系列
 [Changed] 附件优化
 
 2023/01/27 (221 files)
-[Changed] Standard 指针样式改进
+[Changed] 标准鼠标指针样式改进
 
 2022/11/26 (217 files)
-[Changed] GenshinNahida 指针样式改进 (绘制了矢量图)
+[Changed] 原神纳西妲 (GenshinNahida) 改进，绘制了矢量图
 
 2022/11/14 (217 files)
-[New] Genshin 系列全新升级
+[New] 原神 (Genshin) 系列全新升级
 [New] 部分鼠标指针追加白色版本
 [New] 08_Unavailable 镜像翻转版本
 [Changed] 方案组 GenshinImpact 更名为 Genshin
@@ -116,7 +117,7 @@ v6.01 2023/08/23 (142 files)
 未记载更新内容
 
 2022/10/23 (??? files)
-[New] GenshinNahida 系列
+[New] 原神纳西妲 (GenshinNahida) 系列
 
 ----------
 
