@@ -1,6 +1,6 @@
 # 公告 Notice
 
-![重要更新公告 Important Update Notice](/Help/Important%20Update%20Notice.png)
+![重要更新公告 Important Update Notice](/HELP/Important%20Update%20Notice.png)
 
 # 简介 Description
 
@@ -17,22 +17,22 @@ STMCS-4 "Genshin Nahida" [纳西妲概念鼠标指针 (Nahida Conceptual Mouse C
 STMCS-5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 (Bocchi the Rock Ahoge Mouse Cursors)](https://bilibili.com/video/BV1ke4y1F7ge)<br>
 STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse Cursors)](https://bilibili.com/video/BV1im4y1H7Xg)
 
-![STMCS-4 封面 Cover](/Preview/STMCS-4%20封面%20Cover.png)
-![STMCS-5 封面 Cover](/Preview/STMCS-5%20封面%20Cover.png)
-![STMCS-6 封面 Cover](/Preview/STMCS-6%20封面%20Cover.png)
+![STMCS-4 封面 Cover](/PREVIEW/STMCS-4%20封面%20Cover.png)
+![STMCS-5 封面 Cover](/PREVIEW/STMCS-5%20封面%20Cover.png)
+![STMCS-6 封面 Cover](/PREVIEW/STMCS-6%20封面%20Cover.png)
 (Illustrations from: Pixiv ID [102249014](https://www.pixiv.net/en/artworks/102249014), [104313496](https://www.pixiv.net/en/artworks/104313496), [109780772](https://www.pixiv.net/en/artworks/109780772))
 
 # 预览 Preview
 
-![STMCS-1 预览 Preview](/Preview/STMCS-1%20预览%20Preview.png)
-![STMCS-3 预览 Preview](/Preview/STMCS-3%20预览%20Preview.png)
-![STMCS-4 预览 Preview](/Preview/STMCS-4%20预览%20Preview.png)
-![STMCS-5 预览 Preview](/Preview/STMCS-5%20预览%20Preview.png)
-![STMCS-6 预览 Preview](/Preview/STMCS-6%20预览%20Preview.png)
+![STMCS-1 预览 Preview](/PREVIEW/STMCS-1%20预览%20Preview.png)
+![STMCS-3 预览 Preview](/PREVIEW/STMCS-3%20预览%20Preview.png)
+![STMCS-4 预览 Preview](/PREVIEW/STMCS-4%20预览%20Preview.png)
+![STMCS-5 预览 Preview](/PREVIEW/STMCS-5%20预览%20Preview.png)
+![STMCS-6 预览 Preview](/PREVIEW/STMCS-6%20预览%20Preview.png)
 
 # 使用方法 How to Use
 
-[STMC 保姆级使用教程](/Help/STMC%20保姆级使用教程.pdf)
+[STMC 保姆级使用教程](/HELP/STMC%20保姆级使用教程.pdf)
 
 前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并解压「STMC.zip」。<br>
 Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
