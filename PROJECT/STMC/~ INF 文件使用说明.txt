@@ -7,7 +7,7 @@ INF 文件使用说明
 1. 单击选中希望安装的鼠标指针方案 inf 文件。
 2. 右键→安装。
 	若在 Win11 上找不到「安装」，请观察一下有没有「显示更多选项」。
-	若弹出 UAC（你要允许…？），请允许 UAC 提权「INF 默认安装」。
+	若弹出 UAC（你要允许…？），请允许 UAC 授予「INF 默认安装」管理员权限。
 3. 在弹出的「鼠标 属性」窗口中点击 指针→确定→是。
 	若看不到窗口，请留意任务栏。
 
@@ -47,4 +47,4 @@ STMCS-607-GenshinFurina(LeftHanded) 芙宁娜概念鼠标指针 (左利手专用
 ----------
 
 (C) 2022 SAM TOKI STUDIO
-https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors
+https://github.com/SamToki/Sam-Toki-Mouse-Cursors

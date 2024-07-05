@@ -122,4 +122,4 @@ v6.01 2023/08/23 (142 files)
 ----------
 
 (C) 2022 SAM TOKI STUDIO
-https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors
+https://github.com/SamToki/Sam-Toki-Mouse-Cursors
