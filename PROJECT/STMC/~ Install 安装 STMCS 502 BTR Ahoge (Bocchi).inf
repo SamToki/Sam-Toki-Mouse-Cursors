@@ -49,7 +49,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 
 [Strings]
 CUR_DIR         = "Cursors\STMC"
-SCHEME_NAME     = "STMCS-502-BTRAhoge(Bocchi)"
+SCHEME_NAME     = "STMCS 502 BTR Ahoge (Bocchi)"
 
 CurArrow        = "STMC_BTRAhoge_01_Normal(Bocchi).cur"
 CurHelp         = "STMC_BTRAhoge_02_Help(Bocchi).cur"

@@ -3,121 +3,124 @@ Sam Toki's Mouse Cursors (STMC)
 
 ----------
 
-v6.05 2024/06/10 (154 files)
-[Changed] 通用I形 (Beam) 鼠标指针由黑白相间改为反色，解决了过粗的问题
-[Changed] 通用禁止标志 (Unavailable) 鼠标指针略微缩小，与其他鼠标指针平衡
-[Changed] 所有四方向箭头 (Move) 鼠标指针去除描边
-[Changed] 标准帮助 (Help) 鼠标指针的问号部分去除描边
-[Changed] 标准转圈 (Working & Busy) 鼠标指针重新设计
-[Changed] 标准白色鼠标指针方案 (STMCS-102) 修改
-[Fixed] 修复拆分版压缩包缺失鼠标指针的问题
+v7.00 2024/07/31 (154个文件)
+[更改] 优化方案命名
 
-v6.04 2023/12/27 (154 files)
-[New] STMC_GenshinNahida_01_Normal(alternative) 无尾版本
+v6.05 2024/06/10 (154个文件)
+[更改] 通用I形 (Beam) 鼠标指针由黑白相间改为反色，解决了过粗的问题
+[更改] 通用禁止标志 (Unavailable) 鼠标指针略微缩小，与其他鼠标指针平衡
+[更改] 所有四方向箭头 (Move) 鼠标指针去除描边
+[更改] 标准帮助 (Help) 鼠标指针的问号部分去除描边
+[更改] 标准转圈 (Working & Busy) 鼠标指针重新设计
+[更改] 标准白色鼠标指针方案 (STMCS-102) 修改
+[修复] 修复拆分版压缩包缺失鼠标指针的问题
 
-v6.03 2023/12/27 (153 files)
-[New] 重新设计手指 (Finger) 与手掌 (Hand) 鼠标指针共5枚，废除旧版2枚；添加纳西妲 (Nahida) 绿色手2枚，芙宁娜 (Furina) 手掌3枚
+v6.04 2023/12/27 (154个文件)
+[新增] STMC_GenshinNahida_01_Normal(alternative) 无尾版本
 
-v6.02 2023/12/11 (145 files)
-[New] 原神芙宁娜 (GenshinFurina) 手指 (Finger) 3种颜色不同的备选版本
-[Changed] 原神问号清晰度优化，采用新素材
-[Changed] 版权说明更新
+v6.03 2023/12/27 (153个文件)
+[新增] 重新设计手指 (Finger) 与手掌 (Hand) 鼠标指针共5枚，废除旧版2枚；添加纳西妲 (Nahida) 绿色手2枚，芙宁娜 (Furina) 手掌3枚
 
-v6.01 2023/08/23 (142 files)
-[New] 版本号引入，由于已推出6个系列，故大版本号从6开始
-[Changed] 版权说明更新
+v6.02 2023/12/11 (145个文件)
+[新增] 原神芙宁娜 (GenshinFurina) 手指 (Finger) 3种颜色不同的备选版本
+[更改] 原神问号清晰度优化，采用新素材
+[更改] 版权说明更新
 
-2023/08/13 (142 files)
-[New] 原神芙宁娜 (GenshinFurina) 系列
-[Changed] STMC_Genshin_12 修复偏移一个像素
-[Changed] 预览图改版
-[Changed] 教程更新
+v6.01 2023/08/23 (142个文件)
+[新增] 版本号引入，由于已推出6个系列，故大版本号从6开始
+[更改] 版权说明更新
 
-2023/08/10 (128 files)
-[New] STMC_GenshinNahida_13_Move
-[Changed] 预览图更新
+2023/08/13 (142个文件)
+[新增] 原神芙宁娜 (GenshinFurina) 系列
+[更改] STMC_Genshin_12 修复偏移一个像素
+[更改] 预览图改版
+[更改] 教程更新
+
+2023/08/10 (128个文件)
+[新增] STMC_GenshinNahida_13_Move
+[更改] 预览图更新
 敬请期待原神芙宁娜系列！
 
-2023/08/08 (127 files)
-[New] STMC_Standard_01 小号版本 (在正常箭头与转圈状态之间切换的时候箭头不会不断大小变)
-[Changed] STMC_Genshin_03 帧顺序调整
+2023/08/08 (127个文件)
+[新增] STMC_Standard_01 小号版本 (在正常箭头与转圈状态之间切换的时候箭头不会不断大小变)
+[更改] STMC_Genshin_03 帧顺序调整
 
-2023/08/06 (126 files)
-[New] 全系列改进，矢量作图，大幅改善抗锯齿
-[Changed] 预览图更新
-[Removed] 45degrees 系列
-[Removed] 废除多个鼠标指针与方案
+2023/08/06 (126个文件)
+[新增] 全系列改进，矢量作图，大幅改善抗锯齿
+[更改] 预览图更新
+[移除] 45degrees 系列
+[移除] 废除多个鼠标指针与方案
 此次更新为大型更新。更新后的作品与以前视频演示中的鼠标指针差异较大。
 改进了很多，也废除了很多质量欠佳的鼠标指针，且更改了安装配置。
 若您使用过旧版本的鼠标指针，请 (参考 PDF 教程) 卸载后再重装。
 若想要使用一些已被废除的旧版鼠标指针，请下载旧版存档 (Archive 文件包)。
 
-2023/06/02 (284 files)
-[Changed] 孤独摇滚呆毛 (BTRAhoge) 喜多辫子样式改进
-[Changed] 孤独摇滚呆毛 (BTRAhoge) 幽灵 (章鱼) 样式改进
-[Changed] 预览图更新
+2023/06/02 (284个文件)
+[更改] 孤独摇滚呆毛 (BTRAhoge) 喜多辫子样式改进
+[更改] 孤独摇滚呆毛 (BTRAhoge) 幽灵 (章鱼) 样式改进
+[更改] 预览图更新
 
-2023/03/16 (284 files)
-[New] STMC_BTRAhoge_04 虹夏转圈新版
-[New] STMC_BTRAhoge_04 虹夏鼓棒
-[New] STMC_BTRAhoge_08 四人幽灵形状 (alternative2)
-[New] STMC_BTRAhoge_13 抓握手形 (有点像小笼包)
-[New] STMC_BTRAhoge_14 波喜多版本
-[New] STMC_BTRAhoge_15 手指镜像翻转版本 (左利手专用)
-[New] STMCS-504 & STMCS-507 方案
-[Changed] STMCS-501 方案修改
-[Changed] 预览图更新
+2023/03/16 (284个文件)
+[新增] STMC_BTRAhoge_04 虹夏转圈新版
+[新增] STMC_BTRAhoge_04 虹夏鼓棒
+[新增] STMC_BTRAhoge_08 四人幽灵形状 (alternative2)
+[新增] STMC_BTRAhoge_13 抓握手形 (有点像小笼包)
+[新增] STMC_BTRAhoge_14 波喜多版本
+[新增] STMC_BTRAhoge_15 手指镜像翻转版本 (左利手专用)
+[新增] STMCS-504 & STMCS-507 方案
+[更改] STMCS-501 方案修改
+[更改] 预览图更新
 
-2023/02/28 (273 files)
-[New] STMC_BTRAhoge_01 波喜多-波奇头饰粉红颜色版本 (出现于动画 S01E10)
-[Changed] 孤独摇滚呆毛 (BTRAhoge) 波奇瞳色过深，改为稍浅一些的深蓝色
-[Changed] 孤独摇滚呆毛 (BTRAhoge) 部分波奇头饰颜色对调，以匹配人设中上蓝下黄
-[Changed] STMC_BTRAhoge_15 波奇头饰圆形版本蓝黄颜色刻意相反，以使鼠标指针转换看起来比较明显
-[Changed] 孤独摇滚呆毛 (BTRAhoge) 调整大小 (09~12) 鼠标指针山田凉版本描边改为白色
+2023/02/28 (273个文件)
+[新增] STMC_BTRAhoge_01 波喜多-波奇头饰粉红颜色版本 (出现于动画 S01E10)
+[更改] 孤独摇滚呆毛 (BTRAhoge) 波奇瞳色过深，改为稍浅一些的深蓝色
+[更改] 孤独摇滚呆毛 (BTRAhoge) 部分波奇头饰颜色对调，以匹配人设中上蓝下黄
+[更改] STMC_BTRAhoge_15 波奇头饰圆形版本蓝黄颜色刻意相反，以使鼠标指针转换看起来比较明显
+[更改] 孤独摇滚呆毛 (BTRAhoge) 调整大小 (09~12) 鼠标指针山田凉版本描边改为白色
 
-2023/02/19 (272 files)
-[Changed] STMC_BTRAhoge_05 修复背景圆偏移半个像素
+2023/02/19 (272个文件)
+[更改] STMC_BTRAhoge_05 修复背景圆偏移半个像素
 
-2023/02/14 (272 files)
-[New] 孤独摇滚呆毛 (BTRAhoge) 系列
-[Changed] 附件优化
+2023/02/14 (272个文件)
+[新增] 孤独摇滚呆毛 (BTRAhoge) 系列
+[更改] 附件优化
 
-2023/01/27 (221 files)
-[Changed] 标准鼠标指针样式改进
+2023/01/27 (221个文件)
+[更改] 标准鼠标指针样式改进
 
-2022/11/26 (217 files)
-[Changed] 原神纳西妲 (GenshinNahida) 改进，绘制了矢量图
+2022/11/26 (217个文件)
+[更改] 原神纳西妲 (GenshinNahida) 改进，绘制了矢量图
 
-2022/11/14 (217 files)
-[New] 原神 (Genshin) 系列全新升级
-[New] 部分鼠标指针追加白色版本
-[New] 08_Unavailable 镜像翻转版本
-[Changed] 方案组 GenshinImpact 更名为 Genshin
-[Changed] 多个方案修改
-[Removed] 删除未被使用的鼠标指针
+2022/11/14 (217个文件)
+[新增] 原神 (Genshin) 系列全新升级
+[新增] 部分鼠标指针追加白色版本
+[新增] 08_Unavailable 镜像翻转版本
+[更改] 方案组 GenshinImpact 更名为 Genshin
+[更改] 多个方案修改
+[移除] 删除未被使用的鼠标指针
 
-2022/11/11 (102 files)
-[New] 部分鼠标指针追加 48x48 高清版本 (半成品)
-[New] STMC_GenshinNahida_15 E技能小手食指突出
-[Changed] STMC_GenshinNahida_13 E技能小手 放大改进
-[Changed] 多个方案修改
-[Removed] STMC_GenshinNahida_15 放大版本
+2022/11/11 (102个文件)
+[新增] 部分鼠标指针追加 48x48 高清版本 (半成品)
+[新增] STMC_GenshinNahida_15 E技能小手食指突出
+[更改] STMC_GenshinNahida_13 E技能小手 放大改进
+[更改] 多个方案修改
+[移除] STMC_GenshinNahida_15 放大版本
 
-2022/11/09 (102 files)
-[New] STMC_GenshinNahida_13 E技能小手
-[Changed] STMCS-402 方案修改
-[Changed] 说明文件
+2022/11/09 (102个文件)
+[新增] STMC_GenshinNahida_13 E技能小手
+[更改] STMCS-402 方案修改
+[更改] 说明文件
 
-2022/11/08 (101 files)
-[New] STMC_GenshinNahida_04 旋转的四叶草
-[New] 版权说明文件
-[Changed] STMCS-402 方案修改
+2022/11/08 (101个文件)
+[新增] STMC_GenshinNahida_04 旋转的四叶草
+[新增] 版权说明文件
+[更改] STMCS-402 方案修改
 
-2022/11/07 (100 files)
+2022/11/07 (100个文件)
 未记载更新内容
 
-2022/10/23 (??? files)
-[New] 原神纳西妲 (GenshinNahida) 系列
+2022/10/23 (???个文件)
+[新增] 原神纳西妲 (GenshinNahida) 系列
 
 ----------
 
