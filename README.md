@@ -20,7 +20,7 @@ STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse C
 ![STMCS-4 封面 Cover](/PREVIEW/STMCS-4%20封面%20Cover.png)
 ![STMCS-5 封面 Cover](/PREVIEW/STMCS-5%20封面%20Cover.png)
 ![STMCS-6 封面 Cover](/PREVIEW/STMCS-6%20封面%20Cover.png)
-(Illustrations from: Pixiv ID [102249014](https://www.pixiv.net/en/artworks/102249014), [104313496](https://www.pixiv.net/en/artworks/104313496), [109780772](https://www.pixiv.net/en/artworks/109780772))
+(Illustration credits: Pixiv ID [102249014](https://www.pixiv.net/en/artworks/102249014), [104313496](https://www.pixiv.net/en/artworks/104313496), [109780772](https://www.pixiv.net/en/artworks/109780772))
 
 # 预览 Preview
 
