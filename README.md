@@ -32,7 +32,7 @@ STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse C
 
 # 使用方法 How to Use
 
-[STMC 保姆级使用教程](/HELP/STMC%20保姆级使用教程.pdf)
+[使用教程 Manual](/HELP/使用教程%20Manual.pdf)
 
 前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并解压「STMC.zip」。<br>
 Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
