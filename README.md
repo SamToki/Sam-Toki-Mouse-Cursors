@@ -11,7 +11,7 @@ This is a pack of original mouse cursors (pointers) for Windows, with minimalist
 There are currently 6 series in the pack:
 
 STMCS-1 "Standard" 标准鼠标指针<br>
-STMCS-2 "45-degrees" 45度倾斜鼠标指针 **※ 已被废除 Removed**<br>
+STMCS-2 "45-degrees" 45度倾斜鼠标指针 **※ 已废除 Removed**<br>
 STMCS-3 "Genshin" [原神概念鼠标指针 (Genshin Impact Conceptual Mouse Cursors)](https://bilibili.com/video/BV1WW4y1x7ZY)<br>
 STMCS-4 "Genshin Nahida" [纳西妲概念鼠标指针 (Nahida Conceptual Mouse Cursors)](https://bilibili.com/video/BV1Rt4y1K7Z8)<br>
 STMCS-5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 (Bocchi the Rock Ahoge Mouse Cursors)](https://bilibili.com/video/BV1ke4y1F7ge)<br>
