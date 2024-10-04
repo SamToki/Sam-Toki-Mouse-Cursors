@@ -66,9 +66,10 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/
 The contents listed below are with indeterminate development schedule. I may make them as I like, or cancel them at any time.
 
 - 原神 Genshin Impact | 胡桃 Hu Tao (requested by Bilibili user)
+- 原神 Genshin Impact | 雷电将军 Raiden Shogun (requested by Bilibili user) (Added on 2024/10/04)
 - 原神 Genshin Impact | 温迪 Venti
 - 为美好的世界献上祝福！Konosuba
-- 鸣潮 Wuthering Waves
+- 莉可莉丝 Lycoris Recoil (requested by Bilibili user) (Added on 2024/10/04)
 
 # 版权说明 Copyright Info
 
