@@ -63,13 +63,14 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/
 # 开发计划 Development Plan
 
 下列内容没有具体的制作日程，全凭心情随缘制作，且随时可能被取消。<br>
-The contents listed below are with indeterminate development schedule. I may make them as I like, or cancel them at any time.
+The contents listed below are without determinate development schedule. I may make them as I like, or cancel them at any time.
 
-- 原神 Genshin Impact | 胡桃 Hu Tao (requested by Bilibili user)
-- 原神 Genshin Impact | 雷电将军 Raiden Shogun (requested by Bilibili user) (Added on 2024/10/04)
-- 原神 Genshin Impact | 温迪 Venti
+- ~~原神 Genshin Impact~~
+	- ~~胡桃 Hu Tao (Requested by Bilibili user)~~
+	- ~~雷电将军 Raiden Shogun (Requested by Bilibili user, added on 2024/10/04)~~
+	- ~~温迪 Venti~~
 - 为美好的世界献上祝福！Konosuba
-- 莉可莉丝 Lycoris Recoil (requested by Bilibili user) (Added on 2024/10/04)
+- 莉可莉丝 Lycoris Recoil (Requested by Bilibili user, added on 2024/10/04)
 
 # 版权说明 Copyright Info
 
