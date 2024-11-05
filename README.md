@@ -1,8 +1,8 @@
-# 公告 Notice
+# 公告 ／ Notice
 
 ![重要更新公告 Important Update Notice](/HELP/Important%20Update%20Notice.png)
 
-# 简介 Description
+# 简介 ／ Description
 
 这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「原神」「孤独摇滚！」。内置多种鼠标指针方案，方便快速安装与管理。<br>
 This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from *Genshin Impact* and *Bocchi the Rock*. It has multiple mouse cursor schemes built in, for convenient installation and management.
@@ -22,7 +22,7 @@ There are currently 6 series in the pack:
 ![STMCS-6 封面 Cover](/PREVIEW/STMCS-6%20封面%20Cover.png)
 (Illustration credits: Pixiv ID [102249014](https://pixiv.net/en/artworks/102249014) by [@みず](https://pixiv.net/en/users/52273132); [104313496](https://pixiv.net/en/artworks/104313496) by [@ナナセミオリ](https://pixiv.net/en/users/739284); [109780772](https://pixiv.net/en/artworks/109780772) by [@十六夜小黑](https://pixiv.net/en/users/11976613))
 
-# 预览 Preview
+# 预览 ／ Preview
 
 ![STMCS-1 预览 Preview](/PREVIEW/STMCS-1%20预览%20Preview.png)
 ![STMCS-3 预览 Preview](/PREVIEW/STMCS-3%20预览%20Preview.png)
@@ -30,7 +30,7 @@ There are currently 6 series in the pack:
 ![STMCS-5 预览 Preview](/PREVIEW/STMCS-5%20预览%20Preview.png)
 ![STMCS-6 预览 Preview](/PREVIEW/STMCS-6%20预览%20Preview.png)
 
-# 使用方法 How to Use
+# 使用方法 ／ How to Use
 
 [使用教程 Manual](/HELP/使用教程%20Manual.pdf)
 
@@ -40,14 +40,14 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/
 进入「STMC」文件夹，选中希望安装的鼠标指针方案 inf 文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
 Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers >> OK >> Yes in the "Mouse Properties" window which will pop up later.
 
-# 自定义 How to Customize
+# 自定义 ／ How to Customize
 
 [如何修改孤独摇滚呆毛鼠标指针](https://bilibili.com/video/BV1BD4y137dh)
 
 前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载 PPT 矢量图工程文件，然后根据您的想法编辑之。<br>
 Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download the PowerPoint project files and edit them as you like.
 
-# 鸣谢 Acknowledgment
+# 鸣谢 ／ Acknowledgment
 
 感谢以下观众/读者对本项目的贡献！<br>
 Thanks to all the people contributing to this project!
@@ -69,7 +69,7 @@ Thanks to all the people contributing to this project!
 - 本作品倒卖行为举报<br>
 @猫咪爱吃茶
 
-# 开发计划 Development Plan
+# 开发计划 ／ Development Plan
 
 下列内容没有具体的制作日程，全凭心情随缘制作，且随时可能被取消。<br>
 The contents listed below are without determinate development schedule. I may make them as I like, or cancel them at any time.
@@ -81,7 +81,7 @@ The contents listed below are without determinate development schedule. I may ma
 - 为美好的世界献上祝福！Konosuba
 - 莉可莉丝 Lycoris Recoil (Requested by Bilibili user, added on 2024/10/04)
 
-# 版权说明 Copyright Info
+# 版权说明 ／ Copyright Info
 
 STMC.zip 及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。其他内容（例如工程文件）保留版权。<br>
 STMC.zip and its contents are released under the CC BY-NC-SA 3.0 license. You may freely distribute them, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Other contents such as the project files are copyrighted.
