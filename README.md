@@ -1,6 +1,6 @@
 # 公告 ／ Notice
 
-![重要更新公告 Important Update Notice](/HELP/Important%20Update%20Notice.png)
+![重要更新公告 Important Update Notice](/HELP/重要更新公告%20Important%20Update%20Notice.png)
 
 # 简介 ／ Description
 
