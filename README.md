@@ -5,7 +5,7 @@
 # 简介 ／ Description
 
 这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「原神」「孤独摇滚！」。内置多种鼠标指针方案，方便快速安装与管理。<br>
-This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from *Genshin Impact* and *Bocchi the Rock*. It has multiple mouse cursor schemes built in, for convenient installation and management.
+This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from *Genshin Impact* and *Bocchi the Rock!*. It has multiple mouse cursor schemes built in, for convenient installation and management.
 
 ![封面 Cover](/PREVIEW/封面%20Cover.png)
 
