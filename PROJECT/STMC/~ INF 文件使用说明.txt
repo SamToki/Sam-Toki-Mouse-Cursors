@@ -46,5 +46,5 @@ STMCS 607 Genshin Furina (Left Handed) 芙宁娜概念鼠标指针 (左利手专
 
 ----------
 
-(C) 2022 SAM TOKI STUDIO
+© 2022 SAM TOKI STUDIO
 https://github.com/SamToki/Sam-Toki-Mouse-Cursors

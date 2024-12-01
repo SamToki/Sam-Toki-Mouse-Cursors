@@ -92,5 +92,5 @@
 
 ----------
 
-(C) 2022 SAM TOKI STUDIO
+© 2022 SAM TOKI STUDIO
 https://SamToki.github.io

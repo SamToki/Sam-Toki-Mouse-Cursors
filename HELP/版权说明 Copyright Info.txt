@@ -14,5 +14,5 @@ Other contents such as the project files are copyrighted.
 
 ----------
 
-(C) 2022 SAM TOKI STUDIO
+© 2022 SAM TOKI STUDIO
 https://github.com/SamToki/Sam-Toki-Mouse-Cursors
