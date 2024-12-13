@@ -54,21 +54,19 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/
 感谢以下观众/读者对本项目的贡献！<br>
 Thanks to all the people contributing to this project!
 
-- INF 文件配置[建议](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/1)<br>
-[@Yinr](https://github.com/Yinr)
-- GitHub Release 功能利用[建议](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/3)<br>
-[@Sherlock-Holo](https://github.com/Sherlock-Holo)
-- 版权说明[纠错](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/4)<br>
-[@pat-hwaki](https://github.com/pat-hwaki)
-- 手指设计问题反馈<br>
+- 功能建议 [#1](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/1) [#2](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/3)<br>
+[@Yinr](https://github.com/Yinr) [@Sherlock-Holo](https://github.com/Sherlock-Holo)
+- 纠错 [#1](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/4) [#2](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/pull/6)<br>
+[@pat-hwaki](https://github.com/pat-hwaki) [@xddxdd](https://github.com/xddxdd)
+- 设计问题反馈<br>
 @W腾x云Y @黄栌照古鼎 @小祈2号 @夜林蓝 @叫我轩某某 @云之森处 @让我中奖亿次吧 @十里吖Yime @Fog_鹤 @torque_7 @轻风丶乍起 @中路の霜 @紅絲絨玫瑰 @墨羽_OvO @三个人的孤独探戈
 - 高分屏模糊问题反馈<br>
 @c28101 @RengeRenge @麦薐・烨娥
-- 其他建议<br>
+- 其他反馈<br>
 @latier丶 @言阿午_ @夜白瑰兮 @老陆我也 @小清同志吖 @啥也不会-_- @Amaranthine_Gate @一粒辰砂 @凉城丶逝梦
 - 其他版本的 distribution<br>
 @洛天依_Linux @夕暮_Suzuki
-- 本作品倒卖行为举报<br>
+- 倒卖行为举报<br>
 @猫咪爱吃茶
 
 # 开发计划 ／ Development Plan
