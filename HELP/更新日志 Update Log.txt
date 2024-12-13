@@ -3,6 +3,9 @@ Sam Toki's Mouse Cursors (STMC)
 
 ----------
 
+v7.02 2024/12/13 (154个文件)
+[修复] 307 方案 inf 文件里的错误文件名 (https://github.com/SamToki/Sam-Toki-Mouse-Cursors/pull/6)
+
 v7.01 2024/12/11 (154个文件)
 [更改] 优化标准转圈 (Working & Busy) 鼠标指针
 [更改] 优化文件命名
