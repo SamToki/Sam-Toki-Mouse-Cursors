@@ -28,7 +28,7 @@ There are currently 6 series in the pack:
 
 # 使用方法 How to Use
 
-[使用教程 Manual](/HELP/使用教程%20Manual.pdf)
+[使用教程 Tutorial](/HELP/使用教程%20Tutorial.pdf)
 
 前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并解压「STMC.zip」。<br>
 Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
