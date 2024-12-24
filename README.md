@@ -1,7 +1,3 @@
-# 公告 Notice
-
-![重要更新公告 Important Update Notice](/HELP/重要更新公告%20Important%20Update%20Notice.png)
-
 # 简介 Description
 
 这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「[原神](https://zh.moegirl.org.cn/原神)」「[孤独摇滚！](https://zh.moegirl.org.cn/孤独摇滚！)」。内置多种鼠标指针方案，方便快速安装与管理。<br>
