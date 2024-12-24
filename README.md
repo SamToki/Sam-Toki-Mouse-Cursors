@@ -4,8 +4,8 @@
 
 # 简介 Description
 
-这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「原神」「孤独摇滚！」。内置多种鼠标指针方案，方便快速安装与管理。<br>
-This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from *Genshin Impact* and *Bocchi the Rock!*. It has multiple mouse cursor schemes built in, for convenient installation and management.
+这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「[原神](https://zh.moegirl.org.cn/原神)」「[孤独摇滚！](https://zh.moegirl.org.cn/孤独摇滚！)」。内置多种鼠标指针方案，方便快速安装与管理。<br>
+This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact) and [*Bocchi the Rock!*](https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_(anime)). It has multiple mouse cursor schemes built in, for convenient installation and management.
 
 ![封面 Cover](/PREVIEW/封面%20Cover.png)
 
@@ -26,9 +26,7 @@ There are currently 6 series in the pack:
 
 <img src="/PREVIEW/STMCS-1%20预览%20Preview.png" alt="STMCS-1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-3%20预览%20Preview.png" alt="STMCS-3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-4%20预览%20Preview.png" alt="STMCS-4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-5%20预览%20Preview.png" alt="STMCS-5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-6%20预览%20Preview.png" alt="STMCS-6 预览 Preview" width="49%" />
 
-# 使用方法 How to Use
-
-[使用教程 Tutorial](/HELP/使用教程%20Tutorial.pdf)
+# 教程 Tutorial
 
 前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并解压「STMC.zip」。<br>
 Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
@@ -36,12 +34,15 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/
 进入「STMC」文件夹，选中希望安装的鼠标指针方案 inf 文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
 Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers >> OK >> Yes in the "Mouse Properties" window which will pop up later.
 
-# 自定义 How to Customize
+可在[说明文档](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf)查看详细教程。<br>
+You can view the detailed tutorial in the [documentation](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf) (in simplified Chinese).
 
-[如何修改孤独摇滚呆毛鼠标指针](https://bilibili.com/video/BV1BD4y137dh)
+# 自定义 Customization
 
-前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载 PPT 矢量图工程文件，然后根据您的想法编辑之。<br>
-Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download the PowerPoint project files and edit them as you like.
+您可自行修改这些鼠标指针。前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并打开 PowerPoint 工程文件。编辑其中的矢量图，另存为图片，将图片导入鼠标指针编辑器。最后调整鼠标指针，导出鼠标指针文件。<br>
+You can modify these mouse cursors as you like. Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and open the PowerPoint project files. Edit the vector images in them, export as images, then import the images into a mouse cursor editor. Finally, adjust the mouse cursors, and export to mouse cursor files.
+
+[视频演示：如何修改孤独摇滚呆毛鼠标指针](https://bilibili.com/video/BV1BD4y137dh)
 
 # 鸣谢 Acknowledgment
 
@@ -77,7 +78,7 @@ The contents listed below are without determinate development schedule. I may ma
 
 # 版权说明 Copyright Info
 
-STMC.zip 及其内容物遵循 CC BY-NC-SA 3.0 协议，允许任意传播，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。其他内容（例如工程文件）保留版权。<br>
-STMC.zip and its contents are released under the CC BY-NC-SA 3.0 license. You may freely distribute them, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Other contents such as the project files are copyrighted.
+本项目遵循 [CC BY-NC-SA 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0)。允许任意传播、修改，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。封面图、预览图、说明文档等附件保留版权。<br>
+This project is released under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0). You may freely distribute and modify the project, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Attachments such as the cover images, preview images, documentation are copyrighted.
 
 © 2022 SAM TOKI STUDIO
