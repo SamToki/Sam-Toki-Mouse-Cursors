@@ -77,8 +77,8 @@ The contents listed below are without determinate development schedule. I may ma
 
 # 版权说明 Copyright Info
 
-本项目遵循 [CC BY-NC-SA 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0)。允许任意传播、修改，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。封面图、预览图、说明文档等附件保留版权。<br>
-This project is released under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0). You may freely distribute and modify the project, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Attachments such as the cover images, preview images, documentation are copyrighted.
+本项目遵循 [CC BY-NC-SA 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0)。允许任意传播、修改，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。封面图、预览图、文档等附件保留版权。<br>
+This project is released under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0). You may freely distribute and modify the project, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Attachments such as the cover images, preview images and documentations are copyrighted.
 
 「孤独摇滚！」是 はまじあき／芳文社・アニプレックス 的作品与商标。「原神」是 miHoYo Inc. 的作品与商标。<br>
 *Bocchi the Rock!* is a trademark of Aki Hamazi/Houbunsha, Aniplex. *Genshin Impact* is a trademark of miHoYo Inc.
