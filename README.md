@@ -15,12 +15,13 @@ There are currently 6 series in the pack:
 - STMCS-5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 (Bocchi the Rock Ahoge Mouse Cursors)](https://bilibili.com/video/BV1ke4y1F7ge)<br>
 - STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse Cursors)](https://bilibili.com/video/BV1im4y1H7Xg)
 
-<img src="/PREVIEW/STMCS-4%20封面%20Cover.jpg" alt="STMCS-4 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-5%20封面%20Cover.jpg" alt="STMCS-5 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-6%20封面%20Cover.jpg" alt="STMCS-6 封面 Cover" width="49%" /><br>
+<img src="/PREVIEW/STMCS-4%20封面%20Cover.png" alt="STMCS-4 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-5%20封面%20Cover.png" alt="STMCS-5 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-6%20封面%20Cover.png" alt="STMCS-6 封面 Cover" width="49%" /><br>
 (Illustration credits: Pixiv ID [102249014](https://pixiv.net/en/artworks/102249014) by [@みず](https://pixiv.net/en/users/52273132); [104313496](https://pixiv.net/en/artworks/104313496) by [@ナナセミオリ](https://pixiv.net/en/users/739284); [109780772](https://pixiv.net/en/artworks/109780772) by [@十六夜小黑](https://pixiv.net/en/users/11976613))
 
 # 预览 Preview
 
 <img src="/PREVIEW/STMCS-1%20预览%20Preview.png" alt="STMCS-1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-3%20预览%20Preview.png" alt="STMCS-3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-4%20预览%20Preview.png" alt="STMCS-4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-5%20预览%20Preview.png" alt="STMCS-5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-6%20预览%20Preview.png" alt="STMCS-6 预览 Preview" width="49%" />
+![预览 Preview](/PREVIEW/预览%20Preview.png)
 
 # 教程 Tutorial
 
@@ -66,14 +67,15 @@ Thanks to all the people contributing to this project!
 The contents listed below are without determinate development schedule. I may make them as I like, or cancel them at any time.
 
 - 苏菲的炼金工房 Atelier Sophie
-- 鸣潮 Wuthering Waves
-	- 菲比 Phoebe
-- 为美好的世界献上祝福！Konosuba
-- 莉可莉丝 Lycoris Recoil (Requested by Bilibili user, added on 2024/10/04)
 - ~~原神 Genshin Impact~~
 	- ~~胡桃 Hu Tao (Requested by Bilibili user)~~
 	- ~~雷电将军 Raiden Shogun (Requested by Bilibili user, added on 2024/10/04)~~
 	- ~~温迪 Venti~~
+- 为美好的世界献上祝福！Konosuba
+- 莉可莉丝 Lycoris Recoil (Requested by Bilibili user, added on 2024/10/04)
+- 沉默魔女的秘密 Secrets of the Silent Witch
+- ~~鸣潮 Wuthering Waves~~
+	- ~~菲比 Phoebe~~
 
 # 版权说明 Copyright Info
 

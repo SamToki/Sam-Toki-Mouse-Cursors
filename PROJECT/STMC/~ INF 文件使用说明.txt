@@ -29,8 +29,8 @@ STMCS 401 Genshin Nahida ／ 纳西妲概念鼠标指针
 STMCS 407 Genshin Nahida (Left Handed) ／ 纳西妲概念鼠标指针 (左利手专用)
 
 STMCS 501 BTR Ahoge ／ 孤独摇滚呆毛鼠标指针
-STMCS 502 BTR Ahoge (Bocchi) ／ 孤独摇滚呆毛鼠标指针 (波奇清一色)
-STMCS 503 BTR Ahoge (Nijika) ／ 孤独摇滚呆毛鼠标指针 (虹夏清一色)
+STMCS 502 BTR Ahoge (Nijika) ／ 孤独摇滚呆毛鼠标指针 (虹夏清一色)
+STMCS 503 BTR Ahoge (Mix) ／ 孤独摇滚呆毛鼠标指针 (四人混合)
 STMCS 507 BTR Ahoge (Left Handed) ／ 孤独摇滚呆毛鼠标指针 (左利手专用)
 
 STMCS 601 Genshin Furina ／ 芙宁娜概念鼠标指针
