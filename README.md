@@ -1,26 +1,27 @@
 # 简介 Description
 
-这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「[原神](https://zh.moegirl.org.cn/原神)」「[孤独摇滚！](https://zh.moegirl.org.cn/孤独摇滚！)」。内置多种鼠标指针方案，方便快速安装与管理。<br>
-This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact) and [*Bocchi the Rock!*](https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_(anime)). It has multiple mouse cursor schemes built in, for convenient installation and management.
+这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「[原神](https://zh.moegirl.org.cn/原神)」「[孤独摇滚！](https://zh.moegirl.org.cn/孤独摇滚！)」「[Silent Witch 沉默魔女的秘密](https://zh.moegirl.org.cn/沉默的魔女)」。内置多种鼠标指针方案，方便快速安装与管理。<br>
+This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact), [*Bocchi the Rock!*](https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_(anime)) and [*Secrets of the Silent Witch*](https://en.wikipedia.org/wiki/Secrets_of_the_Silent_Witch). It has multiple mouse cursor schemes built in, for convenient installation and management.
 
 ![封面 Cover](/PREVIEW/封面%20Cover.png)
 
-目前包含6个系列：<br>
-There are currently 6 series in the pack:
+目前包含7个系列：<br>
+There are currently 7 series in the pack:
 
 - STMCS-1 "Standard" 标准鼠标指针<br>
 - ~~STMCS-2 "45-degrees" 45度倾斜鼠标指针~~ ※ 已废除 Removed<br>
 - STMCS-3 "Genshin" [原神概念鼠标指针 (Genshin Impact Conceptual Mouse Cursors)](https://bilibili.com/video/BV1WW4y1x7ZY)<br>
 - STMCS-4 "Genshin Nahida" [纳西妲概念鼠标指针 (Nahida Conceptual Mouse Cursors)](https://bilibili.com/video/BV1Rt4y1K7Z8)<br>
 - STMCS-5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 (Bocchi the Rock Ahoge Mouse Cursors)](https://bilibili.com/video/BV1ke4y1F7ge)<br>
-- STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse Cursors)](https://bilibili.com/video/BV1im4y1H7Xg)
+- STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse Cursors)](https://bilibili.com/video/BV1im4y1H7Xg)<br>
+- STMCS-7 "Silent Witch" 沉默魔女概念鼠标指针
 
-<img src="/PREVIEW/STMCS-4%20封面%20Cover.png" alt="STMCS-4 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-5%20封面%20Cover.png" alt="STMCS-5 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-6%20封面%20Cover.png" alt="STMCS-6 封面 Cover" width="49%" /><br>
-(Illustration credits: Pixiv ID [102249014](https://pixiv.net/en/artworks/102249014) by [@みず](https://pixiv.net/en/users/52273132); [104313496](https://pixiv.net/en/artworks/104313496) by [@ナナセミオリ](https://pixiv.net/en/users/739284); [109780772](https://pixiv.net/en/artworks/109780772) by [@十六夜小黑](https://pixiv.net/en/users/11976613))
+<img src="/PREVIEW/STMCS-4%20封面%20Cover.png" alt="STMCS-4 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-5%20封面%20Cover.png" alt="STMCS-5 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-6%20封面%20Cover.png" alt="STMCS-6 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-7%20封面%20Cover.png" alt="STMCS-7 封面 Cover" width="49%" /><br>
+(Illustration credits: Pixiv ID [102249014](https://pixiv.net/en/artworks/102249014) by [@みず](https://pixiv.net/en/users/52273132); [104313496](https://pixiv.net/en/artworks/104313496) by [@ナナセミオリ](https://pixiv.net/en/users/739284); [109780772](https://pixiv.net/en/artworks/109780772) by [@十六夜小黑](https://pixiv.net/en/users/11976613). [Monica Everett](https://silent-witch.fandom.com/wiki/Monica_Everett) character image from official anime.)
 
 # 预览 Preview
 
-<img src="/PREVIEW/STMCS-1%20预览%20Preview.png" alt="STMCS-1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-3%20预览%20Preview.png" alt="STMCS-3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-4%20预览%20Preview.png" alt="STMCS-4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-5%20预览%20Preview.png" alt="STMCS-5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-6%20预览%20Preview.png" alt="STMCS-6 预览 Preview" width="49%" />
+<img src="/PREVIEW/STMCS-1%20预览%20Preview.png" alt="STMCS-1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-3%20预览%20Preview.png" alt="STMCS-3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-4%20预览%20Preview.png" alt="STMCS-4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-5%20预览%20Preview.png" alt="STMCS-5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-6%20预览%20Preview.png" alt="STMCS-6 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-7%20预览%20Preview.png" alt="STMCS-7 预览 Preview" width="49%" />
 ![预览 Preview](/PREVIEW/预览%20Preview.png)
 
 # 教程 Tutorial
@@ -73,7 +74,6 @@ The contents listed below are without determinate development schedule. I may ma
 	- ~~温迪 Venti~~
 - 为美好的世界献上祝福！Konosuba
 - 莉可莉丝 Lycoris Recoil (Requested by Bilibili user, added on 2024/10/04)
-- 沉默魔女的秘密 Secrets of the Silent Witch
 - ~~鸣潮 Wuthering Waves~~
 	- ~~菲比 Phoebe~~
 
@@ -82,7 +82,7 @@ The contents listed below are without determinate development schedule. I may ma
 本项目遵循 [CC BY-NC-SA 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0)。允许任意传播、修改，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。封面图、预览图、文档等附件保留版权。<br>
 This project is released under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0). You may freely distribute and modify the project, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Attachments such as the cover images, preview images and documentations are copyrighted.
 
-「孤独摇滚！」是 [はまじあき](https://zh.moegirl.org.cn/はまじあき)／[芳文社](https://zh.moegirl.org.cn/芳文社)・[アニプレックス](https://zh.moegirl.org.cn/アニプレックス) 的作品与商标。「原神」是 [miHoYo](https://zh.moegirl.org.cn/miHoYo) Inc. 的作品与商标。<br>
-*Bocchi the Rock!* is a trademark of Aki Hamazi/[Houbunsha](https://en.wikipedia.org/wiki/Houbunsha), [Aniplex](https://en.wikipedia.org/wiki/Aniplex). *Genshin Impact* is a trademark of [miHoYo](https://en.wikipedia.org/wiki/MiHoYo) Inc.
+「孤独摇滚！」是 [はまじあき](https://zh.moegirl.org.cn/はまじあき)／[芳文社](https://zh.moegirl.org.cn/芳文社)・[アニプレックス](https://zh.moegirl.org.cn/アニプレックス) 的作品与商标。「原神」是 [miHoYo](https://zh.moegirl.org.cn/miHoYo) Inc. 的作品与商标。「Silent Witch 沉默魔女的秘密」是 依空まつり・藤実なんな/[KADOKAWA](https://zh.moegirl.org.cn/KADOKAWA)/セレンディア学園広報部 的作品与商标。<br>
+*Bocchi the Rock!* is a trademark of Aki Hamazi/[Houbunsha](https://en.wikipedia.org/wiki/Houbunsha), [Aniplex](https://en.wikipedia.org/wiki/Aniplex). *Genshin Impact* is a trademark of [miHoYo](https://en.wikipedia.org/wiki/MiHoYo) Inc. *Secrets of the Silent Witch* is a trademark of Matsuri Isora, Nanna Fujimi/[KADOKAWA](https://en.wikipedia.org/wiki/KADOKAWA)/セレンディア学園広報部.
 
 © 2022 SAM TOKI STUDIO

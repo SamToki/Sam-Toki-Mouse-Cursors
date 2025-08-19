@@ -1,4 +1,9 @@
 INF 文件使用说明
+How to Use INF Files
+
+----------
+
+Visit the link at the very end for English instructions.
 
 ----------
 
@@ -35,6 +40,10 @@ STMCS 507 BTR Ahoge (Left Handed) ／ 孤独摇滚呆毛鼠标指针 (左利手�
 
 STMCS 601 Genshin Furina ／ 芙宁娜概念鼠标指针
 STMCS 607 Genshin Furina (Left Handed) ／ 芙宁娜概念鼠标指针 (左利手专用)
+
+STMCS 701 Silent Witch ／ 沉默魔女概念鼠标指针
+STMCS 702 Silent Witch (Alt) ／ 沉默魔女概念鼠标指针 (第二方案)
+STMCS 707 Silent Witch (Left Handed) ／ 沉默魔女概念鼠标指针 (左利手专用)
 
 ----------
 
