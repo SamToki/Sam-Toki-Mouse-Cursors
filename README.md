@@ -14,7 +14,7 @@ There are currently 7 series in the pack:
 - STMCS-4 "Genshin Nahida" [纳西妲概念鼠标指针 (Nahida Conceptual Mouse Cursors)](https://bilibili.com/video/BV1Rt4y1K7Z8)<br>
 - STMCS-5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 (Bocchi the Rock Ahoge Mouse Cursors)](https://bilibili.com/video/BV1ke4y1F7ge)<br>
 - STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 (Furina Conceptual Mouse Cursors)](https://bilibili.com/video/BV1im4y1H7Xg)<br>
-- STMCS-7 "Silent Witch" 沉默魔女概念鼠标指针
+- STMCS-7 "Silent Witch" [沉默魔女概念鼠标指针 (Silent Witch Conceptual Mouse Cursors)](https://bilibili.com/read/cv42743579)
 
 <img src="/PREVIEW/STMCS-4%20封面%20Cover.png" alt="STMCS-4 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-5%20封面%20Cover.png" alt="STMCS-5 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-6%20封面%20Cover.png" alt="STMCS-6 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-7%20封面%20Cover.png" alt="STMCS-7 封面 Cover" width="49%" /><br>
 (Illustration credits: Pixiv ID [102249014](https://pixiv.net/en/artworks/102249014) by [@みず](https://pixiv.net/en/users/52273132); [104313496](https://pixiv.net/en/artworks/104313496) by [@ナナセミオリ](https://pixiv.net/en/users/739284); [109780772](https://pixiv.net/en/artworks/109780772) by [@十六夜小黑](https://pixiv.net/en/users/11976613). [Monica Everett](https://silent-witch.fandom.com/wiki/Monica_Everett) character image from official anime.)
