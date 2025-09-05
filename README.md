@@ -30,7 +30,7 @@ There are currently 7 series in the pack:
 Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
 
 进入「STMC」文件夹，选中希望安装的鼠标指针方案 inf 文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
-Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers >> OK >> Yes in the "Mouse Properties" window which will pop up later.
+Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers > OK > Yes in the "Mouse Properties" window which will pop up later.
 
 可在[说明文档](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf)查看详细教程。<br>
 You can view the detailed tutorial in the [documentation](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf) (in simplified Chinese).
