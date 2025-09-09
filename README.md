@@ -49,7 +49,7 @@ Thanks to all the people contributing to this project!
 
 - 功能建议 [#1](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/1) [#2](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/3)<br>
 [@Yinr](https://github.com/Yinr) [@Sherlock-Holo](https://github.com/Sherlock-Holo)
-- 纠错 [#1](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/4) [#2](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/pull/6)<br>
+- 纠错 [#1](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/4) [#2](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/pull/6) [#3](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/pull/8)<br>
 [@pat-hwaki](https://github.com/pat-hwaki) [@xddxdd](https://github.com/xddxdd)
 - 设计问题反馈<br>
 @W腾x云Y @黄栌照古鼎 @小祈2号 @夜林蓝 @叫我轩某某 @云之森处 @让我中奖亿次吧 @十里吖Yime @Fog_鹤 @torque_7 @轻风丶乍起 @中路の霜 @紅絲絨玫瑰 @墨羽_OvO @三个人的孤独探戈
