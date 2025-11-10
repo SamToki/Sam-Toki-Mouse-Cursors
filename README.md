@@ -1,7 +1,7 @@
 # 简介 Description
 
-这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「[原神](https://zh.moegirl.org.cn/原神)」「[孤独摇滚！](https://zh.moegirl.org.cn/孤独摇滚！)」「[Silent Witch 沉默魔女的秘密](https://zh.moegirl.org.cn/沉默的魔女)」。内置多种鼠标指针方案，方便快速安装与管理。<br>
-This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact), [*Bocchi the Rock!*](https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_(anime)) and [*Secrets of the Silent Witch*](https://en.wikipedia.org/wiki/Secrets_of_the_Silent_Witch). It has multiple mouse cursor schemes built in, for convenient installation and management.
+这是一套原创极简风格鼠标指针，适用于 Windows 系统。部分设计来源于「[孤独摇滚！](https://zh.moegirl.org.cn/孤独摇滚！)」「[原神](https://zh.moegirl.org.cn/原神)」「[Silent Witch 沉默魔女的秘密](https://zh.moegirl.org.cn/沉默的魔女)」。内置多种鼠标指针方案，方便快速安装与管理。<br>
+This is a pack of original mouse cursors (pointers) for Windows, with minimalistic design. Some design originated from [*Bocchi the Rock!*](https://bocchi-the-rock.fandom.com/wiki/Bocchi_the_Rock!_(anime)), [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact) and [*Secrets of the Silent Witch*](https://en.wikipedia.org/wiki/Secrets_of_the_Silent_Witch). It has multiple mouse cursor schemes built in, for convenient installation and management.
 
 ![封面 Cover](/PREVIEW/封面%20Cover.png)
 
