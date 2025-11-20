@@ -32,55 +32,13 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/
 进入「STMC」文件夹，选中希望安装的鼠标指针方案 inf 文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
 Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers > OK > Yes in the "Mouse Properties" window which will pop up later.
 
-可在[说明文档](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf)查看详细教程。<br>
-You can view the detailed tutorial in the [documentation](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf) (in simplified Chinese).
-
-# 自定义 Customization
-
-您可自行修改这些鼠标指针。前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并打开 PowerPoint 工程文件。编辑其中的矢量图，另存为图片，将图片导入鼠标指针编辑器。最后调整鼠标指针，导出鼠标指针文件。<br>
-You can modify these mouse cursors as you like. Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and open the PowerPoint project files. Edit the vector images in them, export as images, then import the images into a mouse cursor editor. Finally, adjust the mouse cursors, and export to mouse cursor files.
-
-[视频演示：如何修改孤独摇滚呆毛鼠标指针](https://bilibili.com/video/BV1BD4y137dh)
-
-# 鸣谢 Acknowledgment
-
-感谢以下观众/读者对本项目的贡献！<br>
-Thanks to all the people contributing to this project!
-
-- 功能建议 [#1](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/1) [#2](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/3)<br>
-[@Yinr](https://github.com/Yinr) [@Sherlock-Holo](https://github.com/Sherlock-Holo)
-- 纠错 [#1](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/issues/4) [#2](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/pull/6) [#3](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/pull/8)<br>
-[@pat-hwaki](https://github.com/pat-hwaki) [@xddxdd](https://github.com/xddxdd)
-- 设计问题反馈<br>
-@W腾x云Y @黄栌照古鼎 @小祈2号 @夜林蓝 @叫我轩某某 @云之森处 @让我中奖亿次吧 @十里吖Yime @Fog_鹤 @torque_7 @轻风丶乍起 @中路の霜 @紅絲絨玫瑰 @墨羽_OvO @三个人的孤独探戈
-- 高分屏模糊问题反馈<br>
-@c28101 @RengeRenge @麦薐・烨娥
-- 其他反馈<br>
-@latier丶 @言阿午_ @夜白瑰兮 @老陆我也 @小清同志吖 @啥也不会-_- @Amaranthine_Gate @一粒辰砂 @凉城丶逝梦
-- 其他版本的 distribution<br>
-@洛天依_Linux @夕暮_Suzuki
-- 倒卖行为举报<br>
-@猫咪爱吃茶
-
-# 开发计划 Development Plan
-
-下列内容没有具体的制作日程，全凭心情随缘制作，且随时可能被取消。<br>
-The contents listed below are without determinate development schedule. I may make them as I like, or cancel them at any time.
-
-- 苏菲的炼金工房 Atelier Sophie
-- ~~原神 Genshin Impact~~
-	- ~~胡桃 Hu Tao (Requested by Bilibili user)~~
-	- ~~雷电将军 Raiden Shogun (Requested by Bilibili user, added on 2024/10/04)~~
-	- ~~温迪 Venti~~
-- 为美好的世界献上祝福！Konosuba
-- 莉可莉丝 Lycoris Recoil (Requested by Bilibili user, added on 2024/10/04)
-- ~~鸣潮 Wuthering Waves~~
-	- ~~菲比 Phoebe~~
+详细教程，以及「自定义」「常见问题与解答」「鸣谢」记载于[说明文档](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf)。<br>
+The detailed tutorial, "Customization", "FAQ" and "Acknowledgment" are written in the [documentation](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf) (in simplified Chinese).
 
 # 版权说明 Copyright Info
 
 本项目遵循 [CC BY-NC-SA 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0)。允许任意传播、修改，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。封面图、预览图、文档等附件保留版权。<br>
-This project is released under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0). You may freely distribute and modify the project, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Attachments such as the cover images, preview images and documentations are copyrighted.
+This project is released under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0). You may freely distribute and modify the project, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Attachments such as the cover images, preview images and documents are copyrighted.
 
 「孤独摇滚！」是 [はまじあき](https://zh.moegirl.org.cn/はまじあき)／[芳文社](https://zh.moegirl.org.cn/芳文社)・[アニプレックス](https://zh.moegirl.org.cn/アニプレックス) 的作品与商标。「原神」是 [miHoYo](https://zh.moegirl.org.cn/miHoYo) Inc. 的作品与商标。「Silent Witch 沉默魔女的秘密」是 依空まつり・藤実なんな/[KADOKAWA](https://zh.moegirl.org.cn/KADOKAWA)/セレンディア学園広報部 的作品与商标。<br>
 *Bocchi the Rock!* is a trademark of Aki Hamazi/[Houbunsha](https://en.wikipedia.org/wiki/Houbunsha), [Aniplex](https://en.wikipedia.org/wiki/Aniplex). *Genshin Impact* is a trademark of [miHoYo](https://en.wikipedia.org/wiki/MiHoYo) Inc. *Secrets of the Silent Witch* is a trademark of Matsuri Isora, Nanna Fujimi/[KADOKAWA](https://en.wikipedia.org/wiki/KADOKAWA)/セレンディア学園広報部.
