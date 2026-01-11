@@ -24,7 +24,7 @@ There are currently 7 series in the pack:
 <img src="/PREVIEW/STMCS-1%20预览%20Preview.png" alt="STMCS-1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-3%20预览%20Preview.png" alt="STMCS-3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-4%20预览%20Preview.png" alt="STMCS-4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-5%20预览%20Preview.png" alt="STMCS-5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-6%20预览%20Preview.png" alt="STMCS-6 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-7%20预览%20Preview.png" alt="STMCS-7 预览 Preview" width="49%" />
 ![预览 Preview](/PREVIEW/预览%20Preview.png)
 
-# 教程 Tutorial
+# 使用方法 How to Use
 
 前往 [Releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) 页面，下载并解压「STMC.zip」。<br>
 Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/latest) page, download and extract "STMC.zip".
@@ -32,15 +32,16 @@ Go to the [releases](https://github.com/SamToki/Sam-Toki-Mouse-Cursors/releases/
 进入「STMC」文件夹，选中希望安装的鼠标指针方案 inf 文件，右键→安装。然后在稍后弹出的「鼠标 属性」窗口中点击 指针→确定→是。<br>
 Enter the "STMC" folder, right-click one of the INF files that you would like to use, and click "Install". Then click Pointers > OK > Yes in the "Mouse Properties" window which will pop up later.
 
-详细教程，以及「自定义」「常见问题与解答」「鸣谢」记载于[说明文档](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf)。<br>
-The detailed tutorial, "Customization", "FAQ" and "Acknowledgment" are written in the [documentation](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf) (in simplified Chinese).
+# 了解更多 Learn More
+
+[说明文档](/HELP/Sam%20Toki%20的鼠标指针说明文档.pdf)
 
 # 版权说明 Copyright Info
 
 本项目遵循 [CC BY-NC-SA 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0)。允许任意传播、修改，但转载必须注明出处。若仅在电脑录屏中展示此套鼠标指针，则无需注明鼠标指针作者。仅供个人免费使用，不得商用（任何盈利行为）。封面图、预览图、文档等附件保留版权。<br>
 This project is released under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0). You may freely distribute and modify the project, but a reference is required when reposting. Reference is not required if you are simply showing the mouse cursors in a screen recording. For free personal use only. No commercial use. Attachments such as the cover images, preview images and documents are copyrighted.
 
-「孤独摇滚！」是 [はまじあき](https://zh.moegirl.org.cn/はまじあき)／[芳文社](https://zh.moegirl.org.cn/芳文社)・[アニプレックス](https://zh.moegirl.org.cn/アニプレックス) 的作品与商标。「原神」是 [miHoYo](https://zh.moegirl.org.cn/miHoYo) Inc. 的作品与商标。「Silent Witch 沉默魔女的秘密」是 依空まつり・藤実なんな/[KADOKAWA](https://zh.moegirl.org.cn/KADOKAWA)/セレンディア学園広報部 的作品与商标。<br>
+「孤独摇滚！」是 [はまじあき](https://zh.moegirl.org.cn/はまじあき)／[芳文社](https://zh.moegirl.org.cn/芳文社)・[アニプレックス](https://zh.moegirl.org.cn/アニプレックス) 的商标。「原神」是 [miHoYo](https://zh.moegirl.org.cn/miHoYo) Inc. 的商标。「Silent Witch 沉默魔女的秘密」是 依空まつり・藤実なんな/[KADOKAWA](https://zh.moegirl.org.cn/KADOKAWA)/セレンディア学園広報部 的商标。<br>
 *Bocchi the Rock!* is a trademark of Aki Hamazi/[Houbunsha](https://en.wikipedia.org/wiki/Houbunsha), [Aniplex](https://en.wikipedia.org/wiki/Aniplex). *Genshin Impact* is a trademark of [miHoYo](https://en.wikipedia.org/wiki/MiHoYo) Inc. *Secrets of the Silent Witch* is a trademark of Matsuri Isora, Nanna Fujimi/[KADOKAWA](https://en.wikipedia.org/wiki/KADOKAWA)/セレンディア学園広報部.
 
 © 2022 SAM TOKI STUDIO
