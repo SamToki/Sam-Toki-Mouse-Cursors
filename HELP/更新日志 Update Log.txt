@@ -3,6 +3,9 @@ Update Log of Sam Toki's Mouse Cursors
 
 ----------
 
+v9.07 (2026/05/31) (193个文件)
+[新增] 2枚备选的通用文本选择 (Common Beam) 鼠标指针，应对 Microslop Windows 11 错误显示反转颜色鼠标指针的 bug。详见 issue #12。
+
 v9.06 (2026/01/17) (191个文件)
 [修复] 64px 超大号无法被 Windows 调用的问题。(Windows 系统的鼠标指针不支持图像压缩。禁用 RealWorld Cursor Editor 的 PNG 压缩功能，打开鼠标指针然后直接保存，就解决了。)
 [更改] 针对 64px 超大号鼠标指针，更新说明文档。
