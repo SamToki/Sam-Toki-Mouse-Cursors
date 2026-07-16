@@ -8,20 +8,20 @@ This is a pack of original mouse cursors (pointers) for Windows, with minimalist
 目前包含7个系列：<br>
 There are currently 7 series in the pack:
 
-- STMCS-1 "Standard" 标准鼠标指针<br>
-- ~~STMCS-2 "45-degrees" 45度倾斜鼠标指针~~ ※ 已废除 Removed<br>
-- STMCS-3 "Genshin" [原神概念鼠标指针 Genshin Impact Conceptual Mouse Cursors](https://bilibili.com/video/BV1WW4y1x7ZY)<br>
-- STMCS-4 "Genshin Nahida" [纳西妲概念鼠标指针 Nahida Conceptual Mouse Cursors](https://bilibili.com/video/BV1Rt4y1K7Z8)<br>
-- STMCS-5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 Bocchi the Rock Ahoge Mouse Cursors](https://bilibili.com/video/BV1ke4y1F7ge)<br>
-- STMCS-6 "Genshin Furina" [芙宁娜概念鼠标指针 Furina Conceptual Mouse Cursors](https://bilibili.com/video/BV1im4y1H7Xg)<br>
-- STMCS-7 "Silent Witch" [沉默魔女概念鼠标指针 Silent Witch Conceptual Mouse Cursors](https://bilibili.com/read/cv42743579)
+- STMC 1 "Standard" 标准鼠标指针<br>
+- ~~STMC 2 "45-degrees" 45度倾斜鼠标指针 (已废除 Removed)~~<br>
+- STMC 3 "Genshin" [原神概念鼠标指针 Genshin Impact Conceptual Mouse Cursors](https://bilibili.com/video/BV1WW4y1x7ZY)<br>
+- STMC 4 "Genshin Nahida" [纳西妲概念鼠标指针 Nahida Conceptual Mouse Cursors](https://bilibili.com/video/BV1Rt4y1K7Z8)<br>
+- STMC 5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 Bocchi the Rock Ahoge Mouse Cursors](https://bilibili.com/video/BV1ke4y1F7ge)<br>
+- STMC 6 "Genshin Furina" [芙宁娜概念鼠标指针 Furina Conceptual Mouse Cursors](https://bilibili.com/video/BV1im4y1H7Xg)<br>
+- STMC 7 "Silent Witch" [沉默魔女概念鼠标指针 Silent Witch Conceptual Mouse Cursors](https://bilibili.com/read/cv42743579)
 
-<img src="/PREVIEW/STMCS-4%20封面%20Cover.png" alt="STMCS-4 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-5%20封面%20Cover.png" alt="STMCS-5 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-6%20封面%20Cover.png" alt="STMCS-6 封面 Cover" width="49%" /> <img src="/PREVIEW/STMCS-7%20封面%20Cover.png" alt="STMCS-7 封面 Cover" width="49%" /><br>
-(Illustration credits: Pixiv ID [102249014](https://pixiv.net/en/artworks/102249014) by [@みず](https://pixiv.net/en/users/52273132); [104313496](https://pixiv.net/en/artworks/104313496) by [@ナナセミオリ](https://pixiv.net/en/users/739284); [109780772](https://pixiv.net/en/artworks/109780772) by [@十六夜小黑](https://pixiv.net/en/users/11976613). [Monica Everett](https://silent-witch.fandom.com/wiki/Monica_Everett) character image from official anime.)
+<img src="/PREVIEW/STMC%204%20封面%20Cover.png" alt="STMC 4 封面 Cover" width="49%" /> <img src="/PREVIEW/STMC%205%20封面%20Cover.png" alt="STMC 5 封面 Cover" width="49%" /> <img src="/PREVIEW/STMC%206%20封面%20Cover.png" alt="STMC 6 封面 Cover" width="49%" /> <img src="/PREVIEW/STMC%207%20封面%20Cover.png" alt="STMC 7 封面 Cover" width="49%" /><br>
+(Illustration credits: Pixiv [#102249014](https://pixiv.net/en/artworks/102249014) by [@みず](https://pixiv.net/en/users/52273132), [#104313496](https://pixiv.net/en/artworks/104313496) by [@ナナセミオリ](https://pixiv.net/en/users/739284), [#109780772](https://pixiv.net/en/artworks/109780772) by [@十六夜小黑](https://pixiv.net/en/users/11976613). [Monica Everett](https://silent-witch.fandom.com/wiki/Monica_Everett) character image from official anime.)
 
 # 预览 Preview
 
-<img src="/PREVIEW/STMCS-1%20预览%20Preview.png" alt="STMCS-1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-3%20预览%20Preview.png" alt="STMCS-3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-4%20预览%20Preview.png" alt="STMCS-4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-5%20预览%20Preview.png" alt="STMCS-5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-6%20预览%20Preview.png" alt="STMCS-6 预览 Preview" width="49%" /> <img src="/PREVIEW/STMCS-7%20预览%20Preview.png" alt="STMCS-7 预览 Preview" width="49%" />
+<img src="/PREVIEW/STMC%201%20预览%20Preview.png" alt="STMC 1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%203%20预览%20Preview.png" alt="STMC 3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%204%20预览%20Preview.png" alt="STMC 4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%205%20预览%20Preview.png" alt="STMC 5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%206%20预览%20Preview.png" alt="STMC 6 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%207%20预览%20Preview.png" alt="STMC 7 预览 Preview" width="49%" />
 ![预览 Preview](/PREVIEW/预览%20Preview.png)
 
 # 使用方法 How to Use

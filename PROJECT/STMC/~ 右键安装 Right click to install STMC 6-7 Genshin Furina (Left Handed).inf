@@ -49,7 +49,7 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 
 [Strings]
 CUR_DIR         = "Cursors\STMC"
-SCHEME_NAME     = "STMCS 607 Genshin Furina (Left Handed)"
+SCHEME_NAME     = "STMC 6-7 Genshin Furina (Left Handed)"
 
 CurArrow        = "STMC Genshin Furina 14 Mirrored Pointer.cur"
 CurHelp         = "STMC Genshin 02 Help.cur"

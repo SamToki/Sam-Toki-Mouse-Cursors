@@ -3,6 +3,9 @@ Update Log of Sam Toki's Mouse Cursors
 
 ----------
 
+v9.08 (2026/07/16) (193个文件)
+[更改] 优化方案命名，废除「Sam Toki's Mouse Cursor Scheme」标记。例：STMCS-1 → STMC 1，STMCS 101 → STMC 1-1。
+
 v9.07 (2026/05/31) (193个文件)
 [新增] 2枚备选的通用文本选择 (Common Beam) 鼠标指针，应对 Microslop Windows 11 错误显示反转颜色鼠标指针的 bug。详见 issue #12。
 
