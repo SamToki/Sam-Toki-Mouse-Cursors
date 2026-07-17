@@ -9,7 +9,7 @@ This is a pack of original mouse cursors (pointers) for Windows, with minimalist
 There are currently 7 series in the pack:
 
 - STMC 1 "Standard" 标准鼠标指针<br>
-- ~~STMC 2 "45-degrees" 45度倾斜鼠标指针 (已废除 Removed)~~<br>
+- STMC 2 "45-Degree" 45度鼠标指针<br>
 - STMC 3 "Genshin" [原神概念鼠标指针 Genshin Impact Conceptual Mouse Cursors](https://bilibili.com/video/BV1WW4y1x7ZY)<br>
 - STMC 4 "Genshin Nahida" [纳西妲概念鼠标指针 Nahida Conceptual Mouse Cursors](https://bilibili.com/video/BV1Rt4y1K7Z8)<br>
 - STMC 5 "BTR Ahoge" [孤独摇滚呆毛鼠标指针 Bocchi the Rock Ahoge Mouse Cursors](https://bilibili.com/video/BV1ke4y1F7ge)<br>
@@ -21,7 +21,7 @@ There are currently 7 series in the pack:
 
 # 预览 Preview
 
-<img src="/PREVIEW/STMC%201%20预览%20Preview.png" alt="STMC 1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%203%20预览%20Preview.png" alt="STMC 3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%204%20预览%20Preview.png" alt="STMC 4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%205%20预览%20Preview.png" alt="STMC 5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%206%20预览%20Preview.png" alt="STMC 6 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%207%20预览%20Preview.png" alt="STMC 7 预览 Preview" width="49%" />
+<img src="/PREVIEW/STMC%201%20预览%20Preview.png" alt="STMC 1 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%202%20预览%20Preview.png" alt="STMC 2 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%203%20预览%20Preview.png" alt="STMC 3 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%204%20预览%20Preview.png" alt="STMC 4 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%205%20预览%20Preview.png" alt="STMC 5 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%206%20预览%20Preview.png" alt="STMC 6 预览 Preview" width="49%" /> <img src="/PREVIEW/STMC%207%20预览%20Preview.png" alt="STMC 7 预览 Preview" width="49%" />
 ![预览 Preview](/PREVIEW/预览%20Preview.png)
 
 # 使用方法 How to Use
